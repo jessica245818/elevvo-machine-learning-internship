@@ -17,8 +17,8 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
@@ -26,6 +26,6 @@ jobs:
       - name: Install dependencies
         run: pip install -r task10_mlops_pipeline/requirements-dev.txt
       - name: Run API tests
-        run: pytest task10_mlops_pipeline/tests -q
+        run: python -m pytest task10_mlops_pipeline/tests -q
       - name: Build API container
         run: docker build --tag task10-api:test task10_mlops_pipeline
