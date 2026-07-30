@@ -29,6 +29,9 @@ Internship.
 8. **[Task 8 - Traffic Sign Recognition](task8_traffic_sign_recognition/):**
    Full-scene GTSDB object detection with YOLOv8, mAP/FPS evaluation,
    confidence filtering, ONNX export, and webcam inference.
+9. **[Task 9 - Industrial Predictive Maintenance](task9_predictive_maintenance/):**
+   Cost-sensitive machine-failure alarms optimized for low false-discovery
+   rate, multi-label failure diagnosis, and sensor indicator analysis.
 
 ---
 

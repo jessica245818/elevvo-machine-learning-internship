@@ -1,0 +1,11 @@
+{
+  "Air temperature [K]": 0.08255568978324004,
+  "Process temperature [K]": 0.03594597332977694,
+  "Temperature difference [K]": -0.11167631166572772,
+  "Rotational speed [rpm]": -0.04418755973437549,
+  "Torque [Nm]": 0.19132077505949363,
+  "Tool wear [min]": 0.10544821891959565,
+  "Mechanical power [W]": 0.1760390781246085,
+  "Tool stress": 0.19042683341297056,
+  "Torque-speed ratio": 0.20649293657132511
+}

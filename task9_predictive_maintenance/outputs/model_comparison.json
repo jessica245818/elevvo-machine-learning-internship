@@ -1,0 +1,78 @@
+{
+  "selection": "Thresholds chosen on validation data for minimum FDR subject to recall >= 0.50; test set used once.",
+  "selected_model": "Random Forest",
+  "models": {
+    "Logistic Regression": {
+      "validation": {
+        "threshold": 0.9,
+        "precision": 0.3953488372093023,
+        "recall": 0.5,
+        "fdr": 0.6046511627906976,
+        "f1": 0.44155844155844154
+      },
+      "test": {
+        "threshold": 0.9,
+        "accuracy": 0.966,
+        "precision": 0.5,
+        "recall": 0.4411764705882353,
+        "f1": 0.46875,
+        "false_discovery_rate": 0.5,
+        "roc_auc": 0.9345923151869444,
+        "average_precision": 0.43615262757598006,
+        "true_negatives": 1902,
+        "false_positives": 30,
+        "false_negatives": 38,
+        "true_positives": 30,
+        "alerts": 60
+      }
+    },
+    "Random Forest": {
+      "validation": {
+        "threshold": 0.81,
+        "precision": 1.0,
+        "recall": 0.5588235294117647,
+        "fdr": 0.0,
+        "f1": 0.7169811320754716
+      },
+      "test": {
+        "threshold": 0.81,
+        "accuracy": 0.985,
+        "precision": 0.9523809523809523,
+        "recall": 0.5882352941176471,
+        "f1": 0.7272727272727273,
+        "false_discovery_rate": 0.04761904761904767,
+        "roc_auc": 0.98109243697479,
+        "average_precision": 0.8540294977744832,
+        "true_negatives": 1930,
+        "false_positives": 2,
+        "false_negatives": 28,
+        "true_positives": 40,
+        "alerts": 42
+      }
+    },
+    "XGBoost": {
+      "validation": {
+        "threshold": 0.9850000000000001,
+        "precision": 0.9736842105263158,
+        "recall": 0.5441176470588235,
+        "fdr": 0.02631578947368418,
+        "f1": 0.6981132075471698
+      },
+      "test": {
+        "threshold": 0.9850000000000001,
+        "accuracy": 0.9855,
+        "precision": 1.0,
+        "recall": 0.5735294117647058,
+        "f1": 0.7289719626168224,
+        "false_discovery_rate": 0.0,
+        "roc_auc": 0.9719355133357691,
+        "average_precision": 0.8839291044234763,
+        "true_negatives": 1932,
+        "false_positives": 0,
+        "false_negatives": 29,
+        "true_positives": 39,
+        "alerts": 39
+      }
+    }
+  }
+}

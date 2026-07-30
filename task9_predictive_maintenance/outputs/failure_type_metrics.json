@@ -1,0 +1,37 @@
+{
+  "Tool wear": {
+    "test_support": 10,
+    "precision": 0.029411764705882353,
+    "recall": 0.1,
+    "f1": 0.045454545454545456,
+    "average_precision": 0.0536197369494291
+  },
+  "Heat dissipation": {
+    "test_support": 29,
+    "precision": 0.90625,
+    "recall": 1.0,
+    "f1": 0.9508196721311475,
+    "average_precision": 0.9547722128135065
+  },
+  "Power": {
+    "test_support": 13,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "average_precision": 0.9999999999999998
+  },
+  "Overstrain": {
+    "test_support": 16,
+    "precision": 0.8421052631578947,
+    "recall": 1.0,
+    "f1": 0.9142857142857143,
+    "average_precision": 0.9930555555555556
+  },
+  "Random": {
+    "test_support": 4,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "average_precision": 0.004721421130544438
+  }
+}

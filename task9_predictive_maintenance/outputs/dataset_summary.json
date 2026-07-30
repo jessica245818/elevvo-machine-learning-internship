@@ -1,0 +1,34 @@
+{
+  "source": "task9_predictive_maintenance/data/raw/ai4i2020.csv",
+  "rows": 10000,
+  "duplicate_rows_removed": 0,
+  "missing_values": 0,
+  "failures": 339,
+  "normal_operations": 9661,
+  "failure_rate": 0.0339,
+  "failure_type_counts": {
+    "Tool wear": 46,
+    "Heat dissipation": 115,
+    "Power": 95,
+    "Overstrain": 98,
+    "Random": 19
+  },
+  "untyped_failure_rows": 9,
+  "multi_failure_rows": 24,
+  "engineered_features": [
+    "Temperature difference [K]",
+    "Mechanical power [W]",
+    "Tool stress",
+    "Torque-speed ratio"
+  ],
+  "split_rows": {
+    "train": 6000,
+    "validation": 2000,
+    "test": 2000
+  },
+  "minimum_validation_recall_constraint": 0.5,
+  "positive_class_weight": 28.55665024630542,
+  "strongest_absolute_sensor_association": "Torque-speed ratio",
+  "strongest_sensor_correlation": 0.20649293657132511,
+  "time_to_failure_note": "Not estimated: AI4I rows are independent synthetic products, not longitudinal histories for individual machines. A remaining-useful-life target cannot be derived without inventing chronology."
+}
