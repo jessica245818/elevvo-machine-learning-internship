@@ -1,0 +1,3 @@
+data/raw/*.csv
+outputs/figures/*.png
+

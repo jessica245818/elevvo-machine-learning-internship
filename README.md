@@ -1,4 +1,20 @@
-# Student Score Prediction
+# Elevvo Machine Learning Internship
+
+This repository contains completed projects for the Elevvo Machine Learning
+Internship.
+
+## Projects
+
+1. **Task 1 - Student Score Prediction:** Regression analysis using study hours
+   and other academic factors. The best all-feature linear model achieved
+   R² 0.8250.
+2. **[Task 2 - Customer Segmentation](task2_customer_segmentation/):**
+   K-Means clustering of mall customers using annual income and spending
+   score, with DBSCAN as a bonus comparison.
+
+---
+
+# Task 1: Student Score Prediction
 
 Task 1 of the Elevvo Machine Learning Internship.
 

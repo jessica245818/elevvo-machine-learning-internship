@@ -1,0 +1,12 @@
+{
+  "source_file": "task2_customer_segmentation/data/raw/Mall_Customers.csv",
+  "original_rows": 200,
+  "duplicate_rows_removed": 0,
+  "invalid_rows_removed": 0,
+  "clean_rows": 200,
+  "missing_values_after_cleaning": 0,
+  "features_used_for_clustering": [
+    "Annual Income (k$)",
+    "Spending Score (1-100)"
+  ]
+}

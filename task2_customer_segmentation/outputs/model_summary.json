@@ -1,0 +1,13 @@
+{
+  "selected_k": 5,
+  "kmeans_silhouette_score": 0.5546571631111091,
+  "kmeans_inertia": 65.56840815571681,
+  "dbscan": {
+    "eps": 0.3500000000000001,
+    "min_samples": 8,
+    "clusters": 4,
+    "noise_points": 55,
+    "noise_ratio": 0.275,
+    "silhouette_non_noise": 0.5994016095414765
+  }
+}
