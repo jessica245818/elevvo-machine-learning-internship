@@ -1,0 +1,35 @@
+{
+  "source_file": "task4_loan_approval_prediction/data/raw/loan_approval.xlsx",
+  "original_rows": 614,
+  "duplicate_rows_removed": 0,
+  "invalid_target_rows_removed": 0,
+  "clean_rows": 614,
+  "identifier_removed": "Loan_ID",
+  "numeric_features": [
+    "ApplicantIncome",
+    "CoapplicantIncome",
+    "LoanAmount",
+    "Loan_Amount_Term",
+    "Credit_History"
+  ],
+  "categorical_features": [
+    "Gender",
+    "Married",
+    "Dependents",
+    "Education",
+    "Self_Employed",
+    "Property_Area"
+  ],
+  "missing_values_by_column": {
+    "Gender": 13,
+    "Married": 3,
+    "Dependents": 15,
+    "Self_Employed": 32,
+    "LoanAmount": 22,
+    "Loan_Amount_Term": 14,
+    "Credit_History": 50
+  },
+  "rejected_applications": 192,
+  "approved_applications": 422,
+  "approval_rate": 0.6872964169381107
+}

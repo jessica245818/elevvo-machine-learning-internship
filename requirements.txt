@@ -1,5 +1,7 @@
 matplotlib>=3.8
+imbalanced-learn>=0.13
 numpy>=1.26
+openpyxl>=3.1
 pandas>=2.1
 scikit-learn>=1.4
 xgboost>=2.0

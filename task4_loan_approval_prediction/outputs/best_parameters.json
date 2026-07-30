@@ -1,0 +1,25 @@
+{
+  "Logistic Regression": {
+    "C": 0.1
+  },
+  "Logistic Regression + Class Weight": {
+    "C": 10.0,
+    "class_weight": "balanced"
+  },
+  "Logistic Regression + SMOTE": {
+    "C": 0.1
+  },
+  "Decision Tree": {
+    "max_depth": null,
+    "min_samples_leaf": 5
+  },
+  "Decision Tree + Class Weight": {
+    "class_weight": "balanced",
+    "max_depth": 5,
+    "min_samples_leaf": 5
+  },
+  "Decision Tree + SMOTE": {
+    "max_depth": 8,
+    "min_samples_leaf": 5
+  }
+}

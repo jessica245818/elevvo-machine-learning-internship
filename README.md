@@ -14,6 +14,9 @@ Internship.
 3. **[Task 3 - Forest Cover Type Classification](task3_forest_cover_classification/):**
    Tuned Random Forest and XGBoost models for seven-class forest cover
    prediction using the official UCI Covertype dataset.
+4. **[Task 4 - Loan Approval Prediction](task4_loan_approval_prediction/):**
+   Leakage-safe binary classification with Logistic Regression, Decision
+   Trees, class weighting, and SMOTE for imbalanced loan decisions.
 
 ---
 
