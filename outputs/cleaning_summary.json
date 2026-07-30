@@ -1,0 +1,13 @@
+{
+  "source_file": "data/raw/StudentPerformanceFactors.csv",
+  "original_rows": 6607,
+  "duplicate_rows_removed": 0,
+  "invalid_target_rows_removed": 1,
+  "clean_rows": 6606,
+  "columns": 20,
+  "missing_values_by_column": {
+    "Teacher_Quality": 78,
+    "Parental_Education_Level": 90,
+    "Distance_from_Home": 67
+  }
+}

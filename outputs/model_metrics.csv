@@ -1,0 +1,5 @@
+Model,Features,MAE,RMSE,R2
+Study hours - linear,1,2.4190,3.1559,0.2469
+Study hours - polynomial (degree 2),1,2.4151,3.1538,0.2479
+Selected numeric features - linear,6,1.2442,2.0432,0.6843
+All features - linear,19,0.4160,1.5213,0.8250

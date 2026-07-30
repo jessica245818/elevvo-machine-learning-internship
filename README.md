@@ -1,0 +1,101 @@
+# Student Score Prediction
+
+Task 1 of the Elevvo Machine Learning Internship.
+
+This project predicts students' final exam scores from study habits and other
+academic factors. It covers data cleaning, exploratory visualization,
+train/test splitting, linear regression, evaluation metrics, polynomial
+regression, and feature-combination experiments.
+
+## Dataset
+
+The project uses the
+[Student Performance Factors dataset](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)
+from Kaggle. It contains 6,607 student records and 20 columns. The dataset is
+published under the CC0 public-domain license.
+
+The CSV is stored at:
+
+```text
+data/raw/StudentPerformanceFactors.csv
+```
+
+If that file is missing, the analysis script downloads the public dataset
+archive automatically from Kaggle before training.
+
+## Models compared
+
+1. Linear regression using only `Hours_Studied`
+2. Polynomial regression (degree 2) using only `Hours_Studied`
+3. Linear regression using selected numeric features:
+   `Hours_Studied`, `Attendance`, `Sleep_Hours`, `Previous_Scores`,
+   `Tutoring_Sessions`, and `Physical_Activity`
+4. Linear regression using all numeric and categorical features
+
+The full-feature pipeline imputes missing values and one-hot encodes categorical
+variables without leaking test-set information into training.
+
+## Evaluation
+
+All models use the same reproducible 80/20 train/test split
+(`random_state=42`). Performance is compared using:
+
+- Mean Absolute Error (MAE)
+- Root Mean Squared Error (RMSE)
+- Coefficient of Determination (R²)
+
+### Results
+
+| Model | MAE | RMSE | R² |
+|---|---:|---:|---:|
+| Study hours - linear | 2.4190 | 3.1559 | 0.2469 |
+| Study hours - polynomial (degree 2) | 2.4151 | 3.1538 | 0.2479 |
+| Selected numeric features - linear | 1.2442 | 2.0432 | 0.6843 |
+| All features - linear | **0.4160** | **1.5213** | **0.8250** |
+
+Study hours have a clear positive relationship with exam score, but they explain
+only about 25% of the variation by themselves. Adding a quadratic study-hours
+term produces almost no improvement, so the relationship is adequately
+represented by a straight line within this dataset. Attendance, previous
+scores, sleep, tutoring, and other contextual factors contain substantial
+additional predictive information. The all-feature model performs best,
+explaining 82.5% of test-set variation and missing the true score by about
+0.42 points on average.
+
+The raw data contains no duplicate rows. The cleaning step removes one exam
+score above the valid 0-100 range. Missing categorical values in
+`Teacher_Quality`, `Parental_Education_Level`, and `Distance_from_Home` are
+imputed using the most frequent training-set category.
+
+Run the project to regenerate the exact results:
+
+```bash
+python -m pip install -r requirements.txt
+python src/student_score_prediction.py
+```
+
+Generated files are written to `outputs/`:
+
+- `model_metrics.csv`
+- `baseline_test_predictions.csv`
+- `cleaning_summary.json`
+- `figures/01_distributions.png`
+- `figures/02_correlation_matrix.png`
+- `figures/03_study_hours_regression.png`
+- `figures/04_baseline_diagnostics.png`
+- `figures/05_model_comparison.png`
+
+## Project structure
+
+```text
+.
+├── data/
+│   └── raw/
+│       └── StudentPerformanceFactors.csv
+├── outputs/
+│   └── figures/
+├── src/
+│   └── student_score_prediction.py
+├── README.md
+└── requirements.txt
+```
