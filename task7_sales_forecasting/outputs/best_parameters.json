@@ -1,0 +1,13 @@
+{
+  "Ridge Regression": {
+    "alpha": 10.0
+  },
+  "Random Forest": {
+    "max_depth": null,
+    "min_samples_leaf": 2
+  },
+  "XGBoost": {
+    "max_depth": 3,
+    "n_estimators": 500
+  }
+}

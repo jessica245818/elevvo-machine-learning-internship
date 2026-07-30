@@ -23,6 +23,9 @@ Internship.
 6. **[Task 6 - Music Genre Classification](task6_music_genre_classification/):**
    Ten-class GTZAN genre prediction from MFCC and spectral audio features,
    comparing Logistic Regression, SVM, and Random Forest models.
+7. **[Task 7 - Sales Forecasting](task7_sales_forecasting/):**
+   Time-aware Walmart weekly sales forecasting with lag and rolling features,
+   chronological validation, seasonal analysis, and XGBoost.
 
 ---
 

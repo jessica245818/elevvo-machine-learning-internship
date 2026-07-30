@@ -1,0 +1,23 @@
+{
+  "source_file": "task7_sales_forecasting/data/raw/Walmart.csv",
+  "original_rows": 6435,
+  "clean_rows": 6435,
+  "duplicates_removed": 0,
+  "missing_values_found": 0,
+  "stores": 45,
+  "weeks": 143,
+  "start_date": "2010-02-05",
+  "end_date": "2012-10-26",
+  "sales_min": 209986.25,
+  "sales_max": 3818686.45,
+  "sales_mean": 1046964.8775617715,
+  "featured_rows": 4095,
+  "features": 21,
+  "train_rows": 3195,
+  "test_rows": 900,
+  "train_weeks": 71,
+  "test_weeks": 20,
+  "forecast_type": "rolling one-week-ahead",
+  "first_test_date": "2012-06-15",
+  "last_test_date": "2012-10-26"
+}
