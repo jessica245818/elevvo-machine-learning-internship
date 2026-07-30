@@ -1,0 +1,31 @@
+name: Task 10 MLOps CI
+
+on:
+  push:
+    paths:
+      - "task10_mlops_pipeline/**"
+      - ".github/workflows/task10-ci.yml"
+  pull_request:
+    paths:
+      - "task10_mlops_pipeline/**"
+      - ".github/workflows/task10-ci.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: task10_mlops_pipeline/requirements-dev.txt
+      - name: Install dependencies
+        run: pip install -r task10_mlops_pipeline/requirements-dev.txt
+      - name: Run API tests
+        run: pytest task10_mlops_pipeline/tests -q
+      - name: Build API container
+        run: docker build --tag task10-api:test task10_mlops_pipeline

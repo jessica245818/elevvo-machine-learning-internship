@@ -1,0 +1,55 @@
+{
+  "info": {
+    "name": "Task 10 Predictive Maintenance API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://localhost:8000"
+    }
+  ],
+  "item": [
+    {
+      "name": "Health",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/health"
+      }
+    },
+    {
+      "name": "Predict",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"product_type\": \"M\",\n  \"air_temperature_k\": 300.1,\n  \"process_temperature_k\": 310.2,\n  \"rotational_speed_rpm\": 1500.0,\n  \"torque_nm\": 40.0,\n  \"tool_wear_min\": 100.0\n}"
+        },
+        "url": "{{base_url}}/predict"
+      }
+    },
+    {
+      "name": "Invalid numeric type (expects 400)",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"product_type\": \"M\",\n  \"air_temperature_k\": 300.1,\n  \"process_temperature_k\": 310.2,\n  \"rotational_speed_rpm\": 1500.0,\n  \"torque_nm\": \"forty\",\n  \"tool_wear_min\": 100.0\n}"
+        },
+        "url": "{{base_url}}/predict"
+      }
+    }
+  ]
+}

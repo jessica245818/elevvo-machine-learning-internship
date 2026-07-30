@@ -1,0 +1,8 @@
+{
+  "product_type": "M",
+  "air_temperature_k": 300.1,
+  "process_temperature_k": 310.2,
+  "rotational_speed_rpm": 1500.0,
+  "torque_nm": 40.0,
+  "tool_wear_min": 100.0
+}

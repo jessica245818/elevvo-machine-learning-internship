@@ -32,6 +32,9 @@ Internship.
 9. **[Task 9 - Industrial Predictive Maintenance](task9_predictive_maintenance/):**
    Cost-sensitive machine-failure alarms optimized for low false-discovery
    rate, multi-label failure diagnosis, and sensor indicator analysis.
+10. **[Task 10 - End-to-End MLOps Pipeline](task10_mlops_pipeline/):**
+    FastAPI model serving with strict Pydantic validation, Docker packaging,
+    Streamlit demo, automated tests, and GitHub Actions CI.
 
 ---
 
