@@ -1,0 +1,74 @@
+{
+  "classes_defined": 43,
+  "classes_present_in_all_splits": 43,
+  "class_counts": {
+    "speed_limit_20": 3,
+    "speed_limit_30": 63,
+    "speed_limit_50": 60,
+    "speed_limit_60": 27,
+    "speed_limit_70": 46,
+    "speed_limit_80": 53,
+    "end_speed_limit_80": 19,
+    "speed_limit_100": 28,
+    "speed_limit_120": 18,
+    "no_passing": 26,
+    "no_passing_over_3_5t": 43,
+    "right_of_way_next_intersection": 20,
+    "priority_road": 64,
+    "yield": 29,
+    "stop": 11,
+    "no_vehicles": 8,
+    "vehicles_over_3_5t_prohibited": 12,
+    "no_entry": 10,
+    "general_caution": 27,
+    "dangerous_curve_left": 9,
+    "dangerous_curve_right": 3,
+    "double_curve": 8,
+    "bumpy_road": 4,
+    "slippery_road": 17,
+    "road_narrows_right": 2,
+    "road_work": 12,
+    "traffic_signals": 12,
+    "pedestrians": 5,
+    "children_crossing": 7,
+    "bicycles_crossing": 7,
+    "beware_ice_snow": 9,
+    "wild_animals_crossing": 1,
+    "end_all_restrictions": 33,
+    "turn_right_ahead": 9,
+    "turn_left_ahead": 42,
+    "ahead_only": 15,
+    "straight_or_right": 2,
+    "straight_or_left": 4,
+    "keep_right": 61,
+    "keep_left": 4,
+    "roundabout": 7,
+    "end_no_passing": 13,
+    "end_no_passing_over_3_5t": 13
+  },
+  "splits": {
+    "train": {
+      "images": 600,
+      "positive_images": 506,
+      "negative_images": 94,
+      "boxes": 506
+    },
+    "test": {
+      "images": 300,
+      "positive_images": 234,
+      "negative_images": 66,
+      "boxes": 360
+    }
+  },
+  "invalid_annotations_filtered": [
+    {
+      "file": "task8_traffic_sign_recognition/data/raw/GTSDB_Train_and_Test/Test/labels/00862.txt",
+      "line": 1,
+      "content": "100 0.237868 0.578750 0.056618 0.095000",
+      "reason": "class outside official 0-42 taxonomy"
+    }
+  ],
+  "median_box_width_fraction": 0.027941,
+  "median_box_height_fraction": 0.0475,
+  "dataset_yaml": "task8_traffic_sign_recognition/data/processed/gtsdb_yolo/gtsdb.yaml"
+}

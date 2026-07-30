@@ -26,6 +26,9 @@ Internship.
 7. **[Task 7 - Sales Forecasting](task7_sales_forecasting/):**
    Time-aware Walmart weekly sales forecasting with lag and rolling features,
    chronological validation, seasonal analysis, and XGBoost.
+8. **[Task 8 - Traffic Sign Recognition](task8_traffic_sign_recognition/):**
+   Full-scene GTSDB object detection with YOLOv8, mAP/FPS evaluation,
+   confidence filtering, ONNX export, and webcam inference.
 
 ---
 
