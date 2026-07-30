@@ -11,6 +11,9 @@ Internship.
 2. **[Task 2 - Customer Segmentation](task2_customer_segmentation/):**
    K-Means clustering of mall customers using annual income and spending
    score, with DBSCAN as a bonus comparison.
+3. **[Task 3 - Forest Cover Type Classification](task3_forest_cover_classification/):**
+   Tuned Random Forest and XGBoost models for seven-class forest cover
+   prediction using the official UCI Covertype dataset.
 
 ---
 

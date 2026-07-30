@@ -1,0 +1,9 @@
+model,parameters,validation_accuracy,validation_macro_f1,fit_seconds
+Random Forest,"{""max_depth"": null, ""max_features"": ""sqrt"", ""min_samples_leaf"": 2, ""n_estimators"": 200}",0.8564,0.7842454304230281,1.4156315830041422
+Random Forest,"{""max_depth"": null, ""max_features"": ""sqrt"", ""min_samples_leaf"": 1, ""n_estimators"": 200}",0.865,0.7793221116593233,1.6099087500042515
+Random Forest,"{""max_depth"": 24, ""max_features"": ""sqrt"", ""min_samples_leaf"": 2, ""n_estimators"": 200}",0.8516,0.7778714315123457,1.8363908329993137
+Random Forest,"{""max_depth"": 24, ""max_features"": ""sqrt"", ""min_samples_leaf"": 1, ""n_estimators"": 200}",0.8587,0.7763335418091433,1.440769957996963
+XGBoost,"{""colsample_bytree"": 0.8, ""learning_rate"": 0.15, ""max_depth"": 10, ""n_estimators"": 250, ""subsample"": 0.9}",0.8843,0.8201317985014587,20.57769858300162
+XGBoost,"{""colsample_bytree"": 0.8, ""learning_rate"": 0.08, ""max_depth"": 10, ""n_estimators"": 250, ""subsample"": 0.9}",0.8763,0.8139096016073546,11.944345832998806
+XGBoost,"{""colsample_bytree"": 0.8, ""learning_rate"": 0.15, ""max_depth"": 6, ""n_estimators"": 250, ""subsample"": 0.9}",0.8535,0.794716904223146,9.96560529099952
+XGBoost,"{""colsample_bytree"": 0.8, ""learning_rate"": 0.08, ""max_depth"": 6, ""n_estimators"": 250, ""subsample"": 0.9}",0.8268,0.7633801261530856,6.531639417000406

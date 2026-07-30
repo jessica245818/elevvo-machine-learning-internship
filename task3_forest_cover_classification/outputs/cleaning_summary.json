@@ -1,0 +1,15 @@
+{
+  "source": "UCI Machine Learning Repository - Covertype",
+  "uci_doi": "10.24432/C50K5N",
+  "original_rows": 581012,
+  "original_features": 54,
+  "duplicate_rows_removed": 0,
+  "missing_values": 0,
+  "working_rows": 120000,
+  "numeric_features": 10,
+  "wilderness_one_hot_features": 4,
+  "soil_one_hot_features": 40,
+  "wilderness_encoding_violations": 0,
+  "soil_encoding_violations": 0,
+  "classes": 7
+}
