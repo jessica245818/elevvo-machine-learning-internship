@@ -1,0 +1,17 @@
+{
+  "Logistic Regression - All Features": {
+    "C": 1.0
+  },
+  "RBF SVM - All Features": {
+    "C": 100.0,
+    "gamma": "scale"
+  },
+  "Random Forest - All Features": {
+    "max_depth": 15,
+    "min_samples_leaf": 1
+  },
+  "RBF SVM - MFCC Only": {
+    "C": 10.0,
+    "gamma": 0.01
+  }
+}

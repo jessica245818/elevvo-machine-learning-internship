@@ -1,0 +1,5 @@
+variant,accuracy,macro_f1,weighted_f1,cv_macro_f1,fit_seconds,best_parameters,feature_set,feature_count
+RBF SVM - All Features,0.765,0.7646217522043715,0.7646217522043715,0.7359761223744931,0.363921208998363,"{""C"": 100.0, ""gamma"": ""scale""}",All Audio Features,57
+Logistic Regression - All Features,0.71,0.7107346142452526,0.7107346142452525,0.7049502265069898,1.6893247089974466,"{""C"": 1.0}",All Audio Features,57
+RBF SVM - MFCC Only,0.705,0.7023013340014774,0.7023013340014775,0.6926947711274838,0.4133561249982449,"{""C"": 10.0, ""gamma"": 0.01}",MFCC Features Only,40
+Random Forest - All Features,0.7,0.6946796860801354,0.6946796860801353,0.7062249864812034,5.018125166003301,"{""max_depth"": 15, ""min_samples_leaf"": 1}",All Audio Features,57

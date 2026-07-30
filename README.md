@@ -20,6 +20,9 @@ Internship.
 5. **[Task 5 - Movie Recommendation System](task5_movie_recommendation_system/):**
    User-based collaborative filtering with item-based and SVD bonus models,
    evaluated using precision at K on held-out ratings.
+6. **[Task 6 - Music Genre Classification](task6_music_genre_classification/):**
+   Ten-class GTZAN genre prediction from MFCC and spectral audio features,
+   comparing Logistic Regression, SVM, and Random Forest models.
 
 ---
 

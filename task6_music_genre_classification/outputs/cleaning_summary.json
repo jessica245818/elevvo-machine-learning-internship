@@ -1,0 +1,30 @@
+{
+  "source_file": "task6_music_genre_classification/data/raw/features_30_sec.csv",
+  "original_rows": 1000,
+  "clean_rows": 1000,
+  "duplicate_rows_removed": 0,
+  "rows_removed_for_invalid_values": 0,
+  "missing_values_found": 0,
+  "infinite_values_found": 0,
+  "features": 57,
+  "genres": 10,
+  "class_counts": {
+    "blues": 100,
+    "classical": 100,
+    "country": 100,
+    "disco": 100,
+    "hiphop": 100,
+    "jazz": 100,
+    "metal": 100,
+    "pop": 100,
+    "reggae": 100,
+    "rock": 100
+  },
+  "filenames_unique": 1000,
+  "train_rows": 800,
+  "test_rows": 200,
+  "feature_sets": {
+    "All Audio Features": 57,
+    "MFCC Features Only": 40
+  }
+}
