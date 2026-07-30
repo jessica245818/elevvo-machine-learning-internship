@@ -1,0 +1,1825 @@
+model,user_id,relevant_test_movies,hits,precision_at_10
+Popularity Baseline,1,79,3,0.3
+Popularity Baseline,2,12,1,0.1
+Popularity Baseline,3,5,1,0.1
+Popularity Baseline,4,8,2,0.2
+Popularity Baseline,5,25,0,0.0
+Popularity Baseline,6,64,7,0.7
+Popularity Baseline,7,135,5,0.5
+Popularity Baseline,8,22,1,0.1
+Popularity Baseline,9,9,0,0.0
+Popularity Baseline,10,82,5,0.5
+Popularity Baseline,11,37,0,0.0
+Popularity Baseline,12,25,2,0.2
+Popularity Baseline,13,107,4,0.4
+Popularity Baseline,14,41,3,0.3
+Popularity Baseline,15,15,0,0.0
+Popularity Baseline,16,59,5,0.5
+Popularity Baseline,17,2,0,0.0
+Popularity Baseline,18,69,8,0.8
+Popularity Baseline,19,5,0,0.0
+Popularity Baseline,20,6,0,0.0
+Popularity Baseline,21,21,1,0.1
+Popularity Baseline,22,36,0,0.0
+Popularity Baseline,23,35,4,0.4
+Popularity Baseline,24,22,4,0.4
+Popularity Baseline,25,30,4,0.4
+Popularity Baseline,26,6,0,0.0
+Popularity Baseline,27,6,0,0.0
+Popularity Baseline,28,27,3,0.3
+Popularity Baseline,29,10,1,0.1
+Popularity Baseline,30,12,0,0.0
+Popularity Baseline,31,10,0,0.0
+Popularity Baseline,32,6,0,0.0
+Popularity Baseline,33,7,0,0.0
+Popularity Baseline,34,9,0,0.0
+Popularity Baseline,35,3,0,0.0
+Popularity Baseline,36,7,0,0.0
+Popularity Baseline,37,15,0,0.0
+Popularity Baseline,38,33,0,0.0
+Popularity Baseline,39,5,0,0.0
+Popularity Baseline,40,6,0,0.0
+Popularity Baseline,41,13,1,0.1
+Popularity Baseline,42,63,4,0.4
+Popularity Baseline,43,75,4,0.4
+Popularity Baseline,44,47,3,0.3
+Popularity Baseline,45,12,0,0.0
+Popularity Baseline,46,12,1,0.1
+Popularity Baseline,47,6,0,0.0
+Popularity Baseline,48,21,3,0.3
+Popularity Baseline,49,25,0,0.0
+Popularity Baseline,50,6,0,0.0
+Popularity Baseline,51,3,1,0.1
+Popularity Baseline,52,17,0,0.0
+Popularity Baseline,53,6,0,0.0
+Popularity Baseline,54,25,1,0.1
+Popularity Baseline,55,4,0,0.0
+Popularity Baseline,56,56,3,0.3
+Popularity Baseline,57,20,0,0.0
+Popularity Baseline,58,52,4,0.4
+Popularity Baseline,59,112,8,0.8
+Popularity Baseline,60,76,5,0.5
+Popularity Baseline,61,3,0,0.0
+Popularity Baseline,62,55,2,0.2
+Popularity Baseline,63,17,2,0.2
+Popularity Baseline,64,54,3,0.3
+Popularity Baseline,65,25,2,0.2
+Popularity Baseline,66,9,0,0.0
+Popularity Baseline,67,13,1,0.1
+Popularity Baseline,68,6,1,0.1
+Popularity Baseline,69,16,1,0.1
+Popularity Baseline,70,30,2,0.2
+Popularity Baseline,71,9,0,0.0
+Popularity Baseline,72,50,5,0.5
+Popularity Baseline,73,22,3,0.3
+Popularity Baseline,74,8,0,0.0
+Popularity Baseline,75,18,0,0.0
+Popularity Baseline,76,21,2,0.2
+Popularity Baseline,77,18,2,0.2
+Popularity Baseline,78,4,0,0.0
+Popularity Baseline,79,17,1,0.1
+Popularity Baseline,80,7,0,0.0
+Popularity Baseline,81,11,3,0.3
+Popularity Baseline,82,34,4,0.4
+Popularity Baseline,83,48,0,0.0
+Popularity Baseline,84,19,2,0.2
+Popularity Baseline,85,69,4,0.4
+Popularity Baseline,86,4,0,0.0
+Popularity Baseline,87,62,2,0.2
+Popularity Baseline,88,7,0,0.0
+Popularity Baseline,89,24,0,0.0
+Popularity Baseline,90,108,7,0.7
+Popularity Baseline,91,34,6,0.6
+Popularity Baseline,92,76,3,0.3
+Popularity Baseline,93,8,0,0.0
+Popularity Baseline,94,106,6,0.6
+Popularity Baseline,95,61,2,0.2
+Popularity Baseline,96,24,3,0.3
+Popularity Baseline,97,24,3,0.3
+Popularity Baseline,98,3,0,0.0
+Popularity Baseline,99,38,2,0.2
+Popularity Baseline,100,8,0,0.0
+Popularity Baseline,101,6,1,0.1
+Popularity Baseline,102,12,2,0.2
+Popularity Baseline,103,9,1,0.1
+Popularity Baseline,104,7,0,0.0
+Popularity Baseline,105,4,0,0.0
+Popularity Baseline,106,26,2,0.2
+Popularity Baseline,107,5,0,0.0
+Popularity Baseline,108,8,1,0.1
+Popularity Baseline,109,49,1,0.1
+Popularity Baseline,110,13,0,0.0
+Popularity Baseline,111,7,0,0.0
+Popularity Baseline,112,14,0,0.0
+Popularity Baseline,113,11,0,0.0
+Popularity Baseline,114,9,0,0.0
+Popularity Baseline,115,29,2,0.2
+Popularity Baseline,116,14,1,0.1
+Popularity Baseline,117,36,3,0.3
+Popularity Baseline,118,26,0,0.0
+Popularity Baseline,119,64,1,0.1
+Popularity Baseline,120,7,0,0.0
+Popularity Baseline,121,15,1,0.1
+Popularity Baseline,122,19,0,0.0
+Popularity Baseline,123,13,0,0.0
+Popularity Baseline,124,6,0,0.0
+Popularity Baseline,125,45,5,0.5
+Popularity Baseline,126,10,0,0.0
+Popularity Baseline,127,10,0,0.0
+Popularity Baseline,128,57,4,0.4
+Popularity Baseline,129,2,0,0.0
+Popularity Baseline,130,121,3,0.3
+Popularity Baseline,131,12,0,0.0
+Popularity Baseline,132,4,0,0.0
+Popularity Baseline,133,2,0,0.0
+Popularity Baseline,134,8,0,0.0
+Popularity Baseline,135,18,2,0.2
+Popularity Baseline,136,13,0,0.0
+Popularity Baseline,137,22,1,0.1
+Popularity Baseline,138,22,4,0.4
+Popularity Baseline,139,8,0,0.0
+Popularity Baseline,140,4,0,0.0
+Popularity Baseline,141,24,1,0.1
+Popularity Baseline,142,7,1,0.1
+Popularity Baseline,143,4,0,0.0
+Popularity Baseline,144,63,4,0.4
+Popularity Baseline,145,63,1,0.1
+Popularity Baseline,146,6,0,0.0
+Popularity Baseline,147,9,0,0.0
+Popularity Baseline,148,24,3,0.3
+Popularity Baseline,149,3,0,0.0
+Popularity Baseline,150,18,1,0.1
+Popularity Baseline,151,99,7,0.7
+Popularity Baseline,152,29,1,0.1
+Popularity Baseline,153,2,1,0.1
+Popularity Baseline,154,17,2,0.2
+Popularity Baseline,155,2,0,0.0
+Popularity Baseline,156,11,1,0.1
+Popularity Baseline,157,15,0,0.0
+Popularity Baseline,158,47,2,0.2
+Popularity Baseline,159,21,0,0.0
+Popularity Baseline,160,35,2,0.2
+Popularity Baseline,161,4,1,0.1
+Popularity Baseline,162,17,1,0.1
+Popularity Baseline,163,6,3,0.3
+Popularity Baseline,164,25,0,0.0
+Popularity Baseline,165,9,0,0.0
+Popularity Baseline,166,7,0,0.0
+Popularity Baseline,167,12,1,0.1
+Popularity Baseline,168,18,0,0.0
+Popularity Baseline,169,11,1,0.1
+Popularity Baseline,170,4,0,0.0
+Popularity Baseline,171,5,0,0.0
+Popularity Baseline,172,5,0,0.0
+Popularity Baseline,173,13,0,0.0
+Popularity Baseline,174,45,0,0.0
+Popularity Baseline,175,8,1,0.1
+Popularity Baseline,176,15,1,0.1
+Popularity Baseline,177,30,1,0.1
+Popularity Baseline,178,76,3,0.3
+Popularity Baseline,179,10,0,0.0
+Popularity Baseline,180,19,0,0.0
+Popularity Baseline,181,9,0,0.0
+Popularity Baseline,182,6,0,0.0
+Popularity Baseline,183,9,1,0.1
+Popularity Baseline,184,60,2,0.2
+Popularity Baseline,185,22,1,0.1
+Popularity Baseline,186,25,0,0.0
+Popularity Baseline,187,15,1,0.1
+Popularity Baseline,188,31,2,0.2
+Popularity Baseline,189,56,3,0.3
+Popularity Baseline,190,10,0,0.0
+Popularity Baseline,191,6,0,0.0
+Popularity Baseline,192,10,0,0.0
+Popularity Baseline,193,25,0,0.0
+Popularity Baseline,194,44,5,0.5
+Popularity Baseline,195,25,0,0.0
+Popularity Baseline,196,14,0,0.0
+Popularity Baseline,197,33,1,0.1
+Popularity Baseline,198,31,3,0.3
+Popularity Baseline,199,9,0,0.0
+Popularity Baseline,200,83,4,0.4
+Popularity Baseline,201,54,5,0.5
+Popularity Baseline,202,2,0,0.0
+Popularity Baseline,203,11,1,0.1
+Popularity Baseline,204,11,0,0.0
+Popularity Baseline,205,4,0,0.0
+Popularity Baseline,206,9,0,0.0
+Popularity Baseline,207,39,3,0.3
+Popularity Baseline,208,16,0,0.0
+Popularity Baseline,209,7,2,0.2
+Popularity Baseline,210,49,2,0.2
+Popularity Baseline,211,4,0,0.0
+Popularity Baseline,212,5,0,0.0
+Popularity Baseline,213,50,5,0.5
+Popularity Baseline,214,46,5,0.5
+Popularity Baseline,215,27,3,0.3
+Popularity Baseline,216,34,3,0.3
+Popularity Baseline,217,16,0,0.0
+Popularity Baseline,218,9,1,0.1
+Popularity Baseline,219,6,0,0.0
+Popularity Baseline,220,9,0,0.0
+Popularity Baseline,221,37,1,0.1
+Popularity Baseline,222,68,3,0.3
+Popularity Baseline,223,21,1,0.1
+Popularity Baseline,224,24,1,0.1
+Popularity Baseline,225,10,1,0.1
+Popularity Baseline,226,15,2,0.2
+Popularity Baseline,227,14,1,0.1
+Popularity Baseline,228,7,0,0.0
+Popularity Baseline,229,4,0,0.0
+Popularity Baseline,230,38,2,0.2
+Popularity Baseline,231,8,0,0.0
+Popularity Baseline,232,32,4,0.4
+Popularity Baseline,233,36,4,0.4
+Popularity Baseline,234,68,7,0.7
+Popularity Baseline,235,41,1,0.1
+Popularity Baseline,236,33,2,0.2
+Popularity Baseline,237,19,3,0.3
+Popularity Baseline,238,5,0,0.0
+Popularity Baseline,239,57,3,0.3
+Popularity Baseline,240,5,0,0.0
+Popularity Baseline,241,6,0,0.0
+Popularity Baseline,242,8,0,0.0
+Popularity Baseline,243,24,0,0.0
+Popularity Baseline,244,76,0,0.0
+Popularity Baseline,245,5,1,0.1
+Popularity Baseline,246,31,1,0.1
+Popularity Baseline,247,9,1,0.1
+Popularity Baseline,248,21,0,0.0
+Popularity Baseline,249,53,5,0.5
+Popularity Baseline,250,40,3,0.3
+Popularity Baseline,251,22,3,0.3
+Popularity Baseline,252,9,0,0.0
+Popularity Baseline,253,32,4,0.4
+Popularity Baseline,254,22,2,0.2
+Popularity Baseline,255,11,1,0.1
+Popularity Baseline,256,62,1,0.1
+Popularity Baseline,257,16,1,0.1
+Popularity Baseline,258,10,0,0.0
+Popularity Baseline,259,15,3,0.3
+Popularity Baseline,260,8,0,0.0
+Popularity Baseline,261,12,0,0.0
+Popularity Baseline,262,25,3,0.3
+Popularity Baseline,263,47,3,0.3
+Popularity Baseline,264,45,1,0.1
+Popularity Baseline,265,10,0,0.0
+Popularity Baseline,266,4,0,0.0
+Popularity Baseline,267,52,2,0.2
+Popularity Baseline,268,47,5,0.5
+Popularity Baseline,269,70,4,0.4
+Popularity Baseline,270,58,1,0.1
+Popularity Baseline,271,66,4,0.4
+Popularity Baseline,272,17,3,0.3
+Popularity Baseline,273,7,0,0.0
+Popularity Baseline,274,25,1,0.1
+Popularity Baseline,275,13,1,0.1
+Popularity Baseline,276,131,6,0.6
+Popularity Baseline,277,18,0,0.0
+Popularity Baseline,278,10,2,0.2
+Popularity Baseline,279,98,1,0.1
+Popularity Baseline,280,51,1,0.1
+Popularity Baseline,281,4,0,0.0
+Popularity Baseline,282,7,0,0.0
+Popularity Baseline,283,21,1,0.1
+Popularity Baseline,284,10,0,0.0
+Popularity Baseline,285,13,1,0.1
+Popularity Baseline,286,77,2,0.2
+Popularity Baseline,287,29,1,0.1
+Popularity Baseline,288,25,5,0.5
+Popularity Baseline,289,6,0,0.0
+Popularity Baseline,290,27,2,0.2
+Popularity Baseline,291,80,0,0.0
+Popularity Baseline,292,56,2,0.2
+Popularity Baseline,293,50,5,0.5
+Popularity Baseline,294,32,2,0.2
+Popularity Baseline,295,85,3,0.3
+Popularity Baseline,296,57,3,0.3
+Popularity Baseline,297,49,3,0.3
+Popularity Baseline,298,31,2,0.2
+Popularity Baseline,299,65,6,0.6
+Popularity Baseline,300,5,0,0.0
+Popularity Baseline,301,69,4,0.4
+Popularity Baseline,302,1,0,0.0
+Popularity Baseline,303,105,5,0.5
+Popularity Baseline,304,5,0,0.0
+Popularity Baseline,305,48,8,0.8
+Popularity Baseline,306,14,0,0.0
+Popularity Baseline,307,39,3,0.3
+Popularity Baseline,308,109,6,0.6
+Popularity Baseline,309,3,0,0.0
+Popularity Baseline,310,12,0,0.0
+Popularity Baseline,311,100,5,0.5
+Popularity Baseline,312,69,6,0.6
+Popularity Baseline,313,60,5,0.5
+Popularity Baseline,314,67,1,0.1
+Popularity Baseline,315,32,3,0.3
+Popularity Baseline,316,23,5,0.5
+Popularity Baseline,317,5,0,0.0
+Popularity Baseline,318,51,3,0.3
+Popularity Baseline,319,6,0,0.0
+Popularity Baseline,320,51,1,0.1
+Popularity Baseline,321,29,2,0.2
+Popularity Baseline,322,18,4,0.4
+Popularity Baseline,323,25,0,0.0
+Popularity Baseline,324,12,0,0.0
+Popularity Baseline,325,35,3,0.3
+Popularity Baseline,326,35,5,0.5
+Popularity Baseline,327,61,2,0.2
+Popularity Baseline,328,54,2,0.2
+Popularity Baseline,329,17,3,0.3
+Popularity Baseline,330,56,3,0.3
+Popularity Baseline,331,16,1,0.1
+Popularity Baseline,332,51,1,0.1
+Popularity Baseline,333,8,1,0.1
+Popularity Baseline,334,66,4,0.4
+Popularity Baseline,335,5,0,0.0
+Popularity Baseline,336,11,0,0.0
+Popularity Baseline,337,8,0,0.0
+Popularity Baseline,338,23,3,0.3
+Popularity Baseline,339,67,4,0.4
+Popularity Baseline,340,16,0,0.0
+Popularity Baseline,341,6,0,0.0
+Popularity Baseline,342,38,3,0.3
+Popularity Baseline,343,59,2,0.2
+Popularity Baseline,344,45,1,0.1
+Popularity Baseline,345,53,3,0.3
+Popularity Baseline,346,22,1,0.1
+Popularity Baseline,347,44,1,0.1
+Popularity Baseline,348,23,0,0.0
+Popularity Baseline,349,5,0,0.0
+Popularity Baseline,350,13,1,0.1
+Popularity Baseline,351,12,0,0.0
+Popularity Baseline,352,9,0,0.0
+Popularity Baseline,353,2,0,0.0
+Popularity Baseline,354,51,3,0.3
+Popularity Baseline,355,6,0,0.0
+Popularity Baseline,356,6,0,0.0
+Popularity Baseline,357,21,0,0.0
+Popularity Baseline,358,5,1,0.1
+Popularity Baseline,359,8,1,0.1
+Popularity Baseline,360,24,0,0.0
+Popularity Baseline,361,29,1,0.1
+Popularity Baseline,362,4,0,0.0
+Popularity Baseline,363,39,1,0.1
+Popularity Baseline,364,4,0,0.0
+Popularity Baseline,365,10,0,0.0
+Popularity Baseline,366,13,0,0.0
+Popularity Baseline,367,21,0,0.0
+Popularity Baseline,368,5,1,0.1
+Popularity Baseline,369,3,0,0.0
+Popularity Baseline,370,12,1,0.1
+Popularity Baseline,371,10,1,0.1
+Popularity Baseline,372,19,1,0.1
+Popularity Baseline,373,49,3,0.3
+Popularity Baseline,374,40,1,0.1
+Popularity Baseline,375,6,0,0.0
+Popularity Baseline,376,5,1,0.1
+Popularity Baseline,377,8,1,0.1
+Popularity Baseline,378,51,2,0.2
+Popularity Baseline,379,46,4,0.4
+Popularity Baseline,380,20,3,0.3
+Popularity Baseline,381,27,1,0.1
+Popularity Baseline,382,7,0,0.0
+Popularity Baseline,383,16,2,0.2
+Popularity Baseline,384,5,0,0.0
+Popularity Baseline,385,35,4,0.4
+Popularity Baseline,386,1,1,0.1
+Popularity Baseline,387,46,1,0.1
+Popularity Baseline,388,9,1,0.1
+Popularity Baseline,389,42,2,0.2
+Popularity Baseline,390,9,0,0.0
+Popularity Baseline,391,17,3,0.3
+Popularity Baseline,392,22,2,0.2
+Popularity Baseline,393,62,3,0.3
+Popularity Baseline,394,19,0,0.0
+Popularity Baseline,395,7,1,0.1
+Popularity Baseline,396,10,0,0.0
+Popularity Baseline,397,10,2,0.2
+Popularity Baseline,398,30,3,0.3
+Popularity Baseline,399,12,0,0.0
+Popularity Baseline,400,2,0,0.0
+Popularity Baseline,401,17,1,0.1
+Popularity Baseline,402,11,1,0.1
+Popularity Baseline,403,3,0,0.0
+Popularity Baseline,404,4,0,0.0
+Popularity Baseline,405,21,2,0.2
+Popularity Baseline,406,42,4,0.4
+Popularity Baseline,407,19,2,0.2
+Popularity Baseline,408,1,0,0.0
+Popularity Baseline,409,24,3,0.3
+Popularity Baseline,410,1,0,0.0
+Popularity Baseline,411,6,0,0.0
+Popularity Baseline,412,10,3,0.3
+Popularity Baseline,413,6,0,0.0
+Popularity Baseline,414,1,0,0.0
+Popularity Baseline,415,2,0,0.0
+Popularity Baseline,416,49,5,0.5
+Popularity Baseline,417,26,4,0.4
+Popularity Baseline,418,2,0,0.0
+Popularity Baseline,419,3,0,0.0
+Popularity Baseline,420,2,0,0.0
+Popularity Baseline,421,6,0,0.0
+Popularity Baseline,422,12,0,0.0
+Popularity Baseline,423,8,0,0.0
+Popularity Baseline,424,3,0,0.0
+Popularity Baseline,425,9,0,0.0
+Popularity Baseline,426,11,2,0.2
+Popularity Baseline,427,6,0,0.0
+Popularity Baseline,428,6,0,0.0
+Popularity Baseline,429,26,4,0.4
+Popularity Baseline,430,4,0,0.0
+Popularity Baseline,431,3,0,0.0
+Popularity Baseline,432,7,1,0.1
+Popularity Baseline,433,3,1,0.1
+Popularity Baseline,434,1,0,0.0
+Popularity Baseline,435,15,0,0.0
+Popularity Baseline,436,12,0,0.0
+Popularity Baseline,437,15,0,0.0
+Popularity Baseline,438,3,1,0.1
+Popularity Baseline,439,1,0,0.0
+Popularity Baseline,440,3,0,0.0
+Popularity Baseline,442,5,1,0.1
+Popularity Baseline,444,3,1,0.1
+Popularity Baseline,445,1,0,0.0
+Popularity Baseline,447,8,0,0.0
+Popularity Baseline,448,2,0,0.0
+Popularity Baseline,449,6,0,0.0
+Popularity Baseline,450,35,4,0.4
+Popularity Baseline,451,3,0,0.0
+Popularity Baseline,452,2,0,0.0
+Popularity Baseline,453,5,1,0.1
+Popularity Baseline,454,4,0,0.0
+Popularity Baseline,455,2,0,0.0
+Popularity Baseline,456,1,0,0.0
+Popularity Baseline,457,7,0,0.0
+Popularity Baseline,458,3,0,0.0
+Popularity Baseline,462,1,0,0.0
+User-Based CF,1,79,6,0.6
+User-Based CF,2,12,2,0.2
+User-Based CF,3,5,1,0.1
+User-Based CF,4,8,0,0.0
+User-Based CF,5,25,0,0.0
+User-Based CF,6,64,6,0.6
+User-Based CF,7,135,8,0.8
+User-Based CF,8,22,5,0.5
+User-Based CF,9,9,0,0.0
+User-Based CF,10,82,7,0.7
+User-Based CF,11,37,0,0.0
+User-Based CF,12,25,2,0.2
+User-Based CF,13,107,3,0.3
+User-Based CF,14,41,4,0.4
+User-Based CF,15,15,0,0.0
+User-Based CF,16,59,3,0.3
+User-Based CF,17,2,0,0.0
+User-Based CF,18,69,8,0.8
+User-Based CF,19,5,0,0.0
+User-Based CF,20,6,0,0.0
+User-Based CF,21,21,0,0.0
+User-Based CF,22,36,1,0.1
+User-Based CF,23,35,3,0.3
+User-Based CF,24,22,2,0.2
+User-Based CF,25,30,4,0.4
+User-Based CF,26,6,0,0.0
+User-Based CF,27,6,0,0.0
+User-Based CF,28,27,3,0.3
+User-Based CF,29,10,1,0.1
+User-Based CF,30,12,0,0.0
+User-Based CF,31,10,0,0.0
+User-Based CF,32,6,0,0.0
+User-Based CF,33,7,1,0.1
+User-Based CF,34,9,0,0.0
+User-Based CF,35,3,0,0.0
+User-Based CF,36,7,0,0.0
+User-Based CF,37,15,0,0.0
+User-Based CF,38,33,1,0.1
+User-Based CF,39,5,0,0.0
+User-Based CF,40,6,0,0.0
+User-Based CF,41,13,0,0.0
+User-Based CF,42,63,4,0.4
+User-Based CF,43,75,9,0.9
+User-Based CF,44,47,2,0.2
+User-Based CF,45,12,1,0.1
+User-Based CF,46,12,1,0.1
+User-Based CF,47,6,1,0.1
+User-Based CF,48,21,4,0.4
+User-Based CF,49,25,0,0.0
+User-Based CF,50,6,0,0.0
+User-Based CF,51,3,1,0.1
+User-Based CF,52,17,1,0.1
+User-Based CF,53,6,0,0.0
+User-Based CF,54,25,3,0.3
+User-Based CF,55,4,1,0.1
+User-Based CF,56,56,5,0.5
+User-Based CF,57,20,0,0.0
+User-Based CF,58,52,5,0.5
+User-Based CF,59,112,9,0.9
+User-Based CF,60,76,6,0.6
+User-Based CF,61,3,0,0.0
+User-Based CF,62,55,5,0.5
+User-Based CF,63,17,1,0.1
+User-Based CF,64,54,3,0.3
+User-Based CF,65,25,1,0.1
+User-Based CF,66,9,0,0.0
+User-Based CF,67,13,1,0.1
+User-Based CF,68,6,1,0.1
+User-Based CF,69,16,1,0.1
+User-Based CF,70,30,3,0.3
+User-Based CF,71,9,0,0.0
+User-Based CF,72,50,6,0.6
+User-Based CF,73,22,4,0.4
+User-Based CF,74,8,1,0.1
+User-Based CF,75,18,0,0.0
+User-Based CF,76,21,0,0.0
+User-Based CF,77,18,1,0.1
+User-Based CF,78,4,0,0.0
+User-Based CF,79,17,2,0.2
+User-Based CF,80,7,0,0.0
+User-Based CF,81,11,3,0.3
+User-Based CF,82,34,2,0.2
+User-Based CF,83,48,1,0.1
+User-Based CF,84,19,2,0.2
+User-Based CF,85,69,6,0.6
+User-Based CF,86,4,0,0.0
+User-Based CF,87,62,3,0.3
+User-Based CF,88,7,1,0.1
+User-Based CF,89,24,1,0.1
+User-Based CF,90,108,8,0.8
+User-Based CF,91,34,6,0.6
+User-Based CF,92,76,3,0.3
+User-Based CF,93,8,0,0.0
+User-Based CF,94,106,8,0.8
+User-Based CF,95,61,4,0.4
+User-Based CF,96,24,3,0.3
+User-Based CF,97,24,2,0.2
+User-Based CF,98,3,0,0.0
+User-Based CF,99,38,2,0.2
+User-Based CF,100,8,0,0.0
+User-Based CF,101,6,0,0.0
+User-Based CF,102,12,0,0.0
+User-Based CF,103,9,2,0.2
+User-Based CF,104,7,1,0.1
+User-Based CF,105,4,1,0.1
+User-Based CF,106,26,1,0.1
+User-Based CF,107,5,0,0.0
+User-Based CF,108,8,0,0.0
+User-Based CF,109,49,2,0.2
+User-Based CF,110,13,1,0.1
+User-Based CF,111,7,0,0.0
+User-Based CF,112,14,2,0.2
+User-Based CF,113,11,0,0.0
+User-Based CF,114,9,0,0.0
+User-Based CF,115,29,1,0.1
+User-Based CF,116,14,3,0.3
+User-Based CF,117,36,4,0.4
+User-Based CF,118,26,2,0.2
+User-Based CF,119,64,3,0.3
+User-Based CF,120,7,0,0.0
+User-Based CF,121,15,1,0.1
+User-Based CF,122,19,0,0.0
+User-Based CF,123,13,1,0.1
+User-Based CF,124,6,0,0.0
+User-Based CF,125,45,5,0.5
+User-Based CF,126,10,1,0.1
+User-Based CF,127,10,0,0.0
+User-Based CF,128,57,2,0.2
+User-Based CF,129,2,0,0.0
+User-Based CF,130,121,5,0.5
+User-Based CF,131,12,2,0.2
+User-Based CF,132,4,0,0.0
+User-Based CF,133,2,0,0.0
+User-Based CF,134,8,1,0.1
+User-Based CF,135,18,0,0.0
+User-Based CF,136,13,3,0.3
+User-Based CF,137,22,2,0.2
+User-Based CF,138,22,3,0.3
+User-Based CF,139,8,1,0.1
+User-Based CF,140,4,0,0.0
+User-Based CF,141,24,1,0.1
+User-Based CF,142,7,1,0.1
+User-Based CF,143,4,0,0.0
+User-Based CF,144,63,3,0.3
+User-Based CF,145,63,4,0.4
+User-Based CF,146,6,2,0.2
+User-Based CF,147,9,0,0.0
+User-Based CF,148,24,1,0.1
+User-Based CF,149,3,0,0.0
+User-Based CF,150,18,2,0.2
+User-Based CF,151,99,6,0.6
+User-Based CF,152,29,2,0.2
+User-Based CF,153,2,0,0.0
+User-Based CF,154,17,2,0.2
+User-Based CF,155,2,0,0.0
+User-Based CF,156,11,1,0.1
+User-Based CF,157,15,1,0.1
+User-Based CF,158,47,4,0.4
+User-Based CF,159,21,0,0.0
+User-Based CF,160,35,4,0.4
+User-Based CF,161,4,0,0.0
+User-Based CF,162,17,0,0.0
+User-Based CF,163,6,1,0.1
+User-Based CF,164,25,1,0.1
+User-Based CF,165,9,0,0.0
+User-Based CF,166,7,0,0.0
+User-Based CF,167,12,1,0.1
+User-Based CF,168,18,0,0.0
+User-Based CF,169,11,1,0.1
+User-Based CF,170,4,0,0.0
+User-Based CF,171,5,1,0.1
+User-Based CF,172,5,0,0.0
+User-Based CF,173,13,0,0.0
+User-Based CF,174,45,1,0.1
+User-Based CF,175,8,1,0.1
+User-Based CF,176,15,1,0.1
+User-Based CF,177,30,4,0.4
+User-Based CF,178,76,4,0.4
+User-Based CF,179,10,0,0.0
+User-Based CF,180,19,0,0.0
+User-Based CF,181,9,0,0.0
+User-Based CF,182,6,0,0.0
+User-Based CF,183,9,0,0.0
+User-Based CF,184,60,5,0.5
+User-Based CF,185,22,3,0.3
+User-Based CF,186,25,0,0.0
+User-Based CF,187,15,1,0.1
+User-Based CF,188,31,2,0.2
+User-Based CF,189,56,5,0.5
+User-Based CF,190,10,0,0.0
+User-Based CF,191,6,3,0.3
+User-Based CF,192,10,1,0.1
+User-Based CF,193,25,1,0.1
+User-Based CF,194,44,1,0.1
+User-Based CF,195,25,0,0.0
+User-Based CF,196,14,0,0.0
+User-Based CF,197,33,2,0.2
+User-Based CF,198,31,3,0.3
+User-Based CF,199,9,0,0.0
+User-Based CF,200,83,4,0.4
+User-Based CF,201,54,1,0.1
+User-Based CF,202,2,0,0.0
+User-Based CF,203,11,1,0.1
+User-Based CF,204,11,1,0.1
+User-Based CF,205,4,0,0.0
+User-Based CF,206,9,0,0.0
+User-Based CF,207,39,4,0.4
+User-Based CF,208,16,0,0.0
+User-Based CF,209,7,2,0.2
+User-Based CF,210,49,3,0.3
+User-Based CF,211,4,1,0.1
+User-Based CF,212,5,0,0.0
+User-Based CF,213,50,6,0.6
+User-Based CF,214,46,7,0.7
+User-Based CF,215,27,3,0.3
+User-Based CF,216,34,3,0.3
+User-Based CF,217,16,0,0.0
+User-Based CF,218,9,1,0.1
+User-Based CF,219,6,0,0.0
+User-Based CF,220,9,0,0.0
+User-Based CF,221,37,2,0.2
+User-Based CF,222,68,3,0.3
+User-Based CF,223,21,0,0.0
+User-Based CF,224,24,1,0.1
+User-Based CF,225,10,1,0.1
+User-Based CF,226,15,2,0.2
+User-Based CF,227,14,1,0.1
+User-Based CF,228,7,1,0.1
+User-Based CF,229,4,0,0.0
+User-Based CF,230,38,0,0.0
+User-Based CF,231,8,1,0.1
+User-Based CF,232,32,3,0.3
+User-Based CF,233,36,5,0.5
+User-Based CF,234,68,5,0.5
+User-Based CF,235,41,2,0.2
+User-Based CF,236,33,0,0.0
+User-Based CF,237,19,0,0.0
+User-Based CF,238,5,0,0.0
+User-Based CF,239,57,4,0.4
+User-Based CF,240,5,1,0.1
+User-Based CF,241,6,1,0.1
+User-Based CF,242,8,0,0.0
+User-Based CF,243,24,1,0.1
+User-Based CF,244,76,1,0.1
+User-Based CF,245,5,0,0.0
+User-Based CF,246,31,0,0.0
+User-Based CF,247,9,1,0.1
+User-Based CF,248,21,2,0.2
+User-Based CF,249,53,4,0.4
+User-Based CF,250,40,3,0.3
+User-Based CF,251,22,1,0.1
+User-Based CF,252,9,0,0.0
+User-Based CF,253,32,5,0.5
+User-Based CF,254,22,2,0.2
+User-Based CF,255,11,0,0.0
+User-Based CF,256,62,2,0.2
+User-Based CF,257,16,2,0.2
+User-Based CF,258,10,1,0.1
+User-Based CF,259,15,1,0.1
+User-Based CF,260,8,1,0.1
+User-Based CF,261,12,0,0.0
+User-Based CF,262,25,3,0.3
+User-Based CF,263,47,3,0.3
+User-Based CF,264,45,1,0.1
+User-Based CF,265,10,0,0.0
+User-Based CF,266,4,1,0.1
+User-Based CF,267,52,5,0.5
+User-Based CF,268,47,5,0.5
+User-Based CF,269,70,3,0.3
+User-Based CF,270,58,2,0.2
+User-Based CF,271,66,4,0.4
+User-Based CF,272,17,2,0.2
+User-Based CF,273,7,0,0.0
+User-Based CF,274,25,1,0.1
+User-Based CF,275,13,0,0.0
+User-Based CF,276,131,8,0.8
+User-Based CF,277,18,0,0.0
+User-Based CF,278,10,2,0.2
+User-Based CF,279,98,4,0.4
+User-Based CF,280,51,1,0.1
+User-Based CF,281,4,0,0.0
+User-Based CF,282,7,0,0.0
+User-Based CF,283,21,1,0.1
+User-Based CF,284,10,0,0.0
+User-Based CF,285,13,1,0.1
+User-Based CF,286,77,3,0.3
+User-Based CF,287,29,1,0.1
+User-Based CF,288,25,5,0.5
+User-Based CF,289,6,0,0.0
+User-Based CF,290,27,3,0.3
+User-Based CF,291,80,1,0.1
+User-Based CF,292,56,5,0.5
+User-Based CF,293,50,4,0.4
+User-Based CF,294,32,1,0.1
+User-Based CF,295,85,2,0.2
+User-Based CF,296,57,3,0.3
+User-Based CF,297,49,3,0.3
+User-Based CF,298,31,3,0.3
+User-Based CF,299,65,4,0.4
+User-Based CF,300,5,0,0.0
+User-Based CF,301,69,5,0.5
+User-Based CF,302,1,0,0.0
+User-Based CF,303,105,6,0.6
+User-Based CF,304,5,0,0.0
+User-Based CF,305,48,4,0.4
+User-Based CF,306,14,0,0.0
+User-Based CF,307,39,4,0.4
+User-Based CF,308,109,7,0.7
+User-Based CF,309,3,0,0.0
+User-Based CF,310,12,0,0.0
+User-Based CF,311,100,6,0.6
+User-Based CF,312,69,8,0.8
+User-Based CF,313,60,5,0.5
+User-Based CF,314,67,1,0.1
+User-Based CF,315,32,2,0.2
+User-Based CF,316,23,3,0.3
+User-Based CF,317,5,0,0.0
+User-Based CF,318,51,3,0.3
+User-Based CF,319,6,1,0.1
+User-Based CF,320,51,2,0.2
+User-Based CF,321,29,4,0.4
+User-Based CF,322,18,3,0.3
+User-Based CF,323,25,3,0.3
+User-Based CF,324,12,2,0.2
+User-Based CF,325,35,2,0.2
+User-Based CF,326,35,2,0.2
+User-Based CF,327,61,0,0.0
+User-Based CF,328,54,5,0.5
+User-Based CF,329,17,3,0.3
+User-Based CF,330,56,4,0.4
+User-Based CF,331,16,1,0.1
+User-Based CF,332,51,3,0.3
+User-Based CF,333,8,0,0.0
+User-Based CF,334,66,5,0.5
+User-Based CF,335,5,0,0.0
+User-Based CF,336,11,0,0.0
+User-Based CF,337,8,0,0.0
+User-Based CF,338,23,6,0.6
+User-Based CF,339,67,4,0.4
+User-Based CF,340,16,0,0.0
+User-Based CF,341,6,0,0.0
+User-Based CF,342,38,4,0.4
+User-Based CF,343,59,4,0.4
+User-Based CF,344,45,2,0.2
+User-Based CF,345,53,2,0.2
+User-Based CF,346,22,1,0.1
+User-Based CF,347,44,4,0.4
+User-Based CF,348,23,1,0.1
+User-Based CF,349,5,0,0.0
+User-Based CF,350,13,0,0.0
+User-Based CF,351,12,2,0.2
+User-Based CF,352,9,0,0.0
+User-Based CF,353,2,0,0.0
+User-Based CF,354,51,4,0.4
+User-Based CF,355,6,0,0.0
+User-Based CF,356,6,1,0.1
+User-Based CF,357,21,0,0.0
+User-Based CF,358,5,0,0.0
+User-Based CF,359,8,1,0.1
+User-Based CF,360,24,4,0.4
+User-Based CF,361,29,0,0.0
+User-Based CF,362,4,0,0.0
+User-Based CF,363,39,2,0.2
+User-Based CF,364,4,0,0.0
+User-Based CF,365,10,0,0.0
+User-Based CF,366,13,0,0.0
+User-Based CF,367,21,0,0.0
+User-Based CF,368,5,1,0.1
+User-Based CF,369,3,0,0.0
+User-Based CF,370,12,1,0.1
+User-Based CF,371,10,1,0.1
+User-Based CF,372,19,1,0.1
+User-Based CF,373,49,4,0.4
+User-Based CF,374,40,2,0.2
+User-Based CF,375,6,0,0.0
+User-Based CF,376,5,0,0.0
+User-Based CF,377,8,0,0.0
+User-Based CF,378,51,4,0.4
+User-Based CF,379,46,5,0.5
+User-Based CF,380,20,2,0.2
+User-Based CF,381,27,1,0.1
+User-Based CF,382,7,0,0.0
+User-Based CF,383,16,3,0.3
+User-Based CF,384,5,1,0.1
+User-Based CF,385,35,4,0.4
+User-Based CF,386,1,1,0.1
+User-Based CF,387,46,4,0.4
+User-Based CF,388,9,1,0.1
+User-Based CF,389,42,0,0.0
+User-Based CF,390,9,0,0.0
+User-Based CF,391,17,3,0.3
+User-Based CF,392,22,2,0.2
+User-Based CF,393,62,2,0.2
+User-Based CF,394,19,1,0.1
+User-Based CF,395,7,3,0.3
+User-Based CF,396,10,0,0.0
+User-Based CF,397,10,1,0.1
+User-Based CF,398,30,3,0.3
+User-Based CF,399,12,1,0.1
+User-Based CF,400,2,0,0.0
+User-Based CF,401,17,0,0.0
+User-Based CF,402,11,1,0.1
+User-Based CF,403,3,1,0.1
+User-Based CF,404,4,1,0.1
+User-Based CF,405,21,0,0.0
+User-Based CF,406,42,4,0.4
+User-Based CF,407,19,3,0.3
+User-Based CF,408,1,0,0.0
+User-Based CF,409,24,3,0.3
+User-Based CF,410,1,0,0.0
+User-Based CF,411,6,0,0.0
+User-Based CF,412,10,1,0.1
+User-Based CF,413,6,0,0.0
+User-Based CF,414,1,1,0.1
+User-Based CF,415,2,0,0.0
+User-Based CF,416,49,5,0.5
+User-Based CF,417,26,3,0.3
+User-Based CF,418,2,0,0.0
+User-Based CF,419,3,0,0.0
+User-Based CF,420,2,1,0.1
+User-Based CF,421,6,0,0.0
+User-Based CF,422,12,0,0.0
+User-Based CF,423,8,1,0.1
+User-Based CF,424,3,0,0.0
+User-Based CF,425,9,0,0.0
+User-Based CF,426,11,2,0.2
+User-Based CF,427,6,1,0.1
+User-Based CF,428,6,1,0.1
+User-Based CF,429,26,4,0.4
+User-Based CF,430,4,0,0.0
+User-Based CF,431,3,0,0.0
+User-Based CF,432,7,1,0.1
+User-Based CF,433,3,2,0.2
+User-Based CF,434,1,0,0.0
+User-Based CF,435,15,1,0.1
+User-Based CF,436,12,0,0.0
+User-Based CF,437,15,0,0.0
+User-Based CF,438,3,1,0.1
+User-Based CF,439,1,1,0.1
+User-Based CF,440,3,0,0.0
+User-Based CF,442,5,1,0.1
+User-Based CF,444,3,1,0.1
+User-Based CF,445,1,0,0.0
+User-Based CF,447,8,0,0.0
+User-Based CF,448,2,0,0.0
+User-Based CF,449,6,0,0.0
+User-Based CF,450,35,4,0.4
+User-Based CF,451,3,0,0.0
+User-Based CF,452,2,1,0.1
+User-Based CF,453,5,2,0.2
+User-Based CF,454,4,0,0.0
+User-Based CF,455,2,0,0.0
+User-Based CF,456,1,0,0.0
+User-Based CF,457,7,0,0.0
+User-Based CF,458,3,0,0.0
+User-Based CF,462,1,0,0.0
+Item-Based CF,1,79,2,0.2
+Item-Based CF,2,12,0,0.0
+Item-Based CF,3,5,0,0.0
+Item-Based CF,4,8,0,0.0
+Item-Based CF,5,25,0,0.0
+Item-Based CF,6,64,5,0.5
+Item-Based CF,7,135,3,0.3
+Item-Based CF,8,22,0,0.0
+Item-Based CF,9,9,0,0.0
+Item-Based CF,10,82,4,0.4
+Item-Based CF,11,37,0,0.0
+Item-Based CF,12,25,2,0.2
+Item-Based CF,13,107,1,0.1
+Item-Based CF,14,41,1,0.1
+Item-Based CF,15,15,0,0.0
+Item-Based CF,16,59,3,0.3
+Item-Based CF,17,2,0,0.0
+Item-Based CF,18,69,2,0.2
+Item-Based CF,19,5,0,0.0
+Item-Based CF,20,6,0,0.0
+Item-Based CF,21,21,0,0.0
+Item-Based CF,22,36,1,0.1
+Item-Based CF,23,35,1,0.1
+Item-Based CF,24,22,1,0.1
+Item-Based CF,25,30,3,0.3
+Item-Based CF,26,6,2,0.2
+Item-Based CF,27,6,0,0.0
+Item-Based CF,28,27,0,0.0
+Item-Based CF,29,10,0,0.0
+Item-Based CF,30,12,0,0.0
+Item-Based CF,31,10,0,0.0
+Item-Based CF,32,6,1,0.1
+Item-Based CF,33,7,1,0.1
+Item-Based CF,34,9,0,0.0
+Item-Based CF,35,3,0,0.0
+Item-Based CF,36,7,0,0.0
+Item-Based CF,37,15,0,0.0
+Item-Based CF,38,33,1,0.1
+Item-Based CF,39,5,0,0.0
+Item-Based CF,40,6,0,0.0
+Item-Based CF,41,13,1,0.1
+Item-Based CF,42,63,3,0.3
+Item-Based CF,43,75,4,0.4
+Item-Based CF,44,47,0,0.0
+Item-Based CF,45,12,1,0.1
+Item-Based CF,46,12,0,0.0
+Item-Based CF,47,6,0,0.0
+Item-Based CF,48,21,1,0.1
+Item-Based CF,49,25,1,0.1
+Item-Based CF,50,6,0,0.0
+Item-Based CF,51,3,0,0.0
+Item-Based CF,52,17,2,0.2
+Item-Based CF,53,6,0,0.0
+Item-Based CF,54,25,1,0.1
+Item-Based CF,55,4,0,0.0
+Item-Based CF,56,56,0,0.0
+Item-Based CF,57,20,0,0.0
+Item-Based CF,58,52,0,0.0
+Item-Based CF,59,112,5,0.5
+Item-Based CF,60,76,0,0.0
+Item-Based CF,61,3,0,0.0
+Item-Based CF,62,55,2,0.2
+Item-Based CF,63,17,0,0.0
+Item-Based CF,64,54,1,0.1
+Item-Based CF,65,25,0,0.0
+Item-Based CF,66,9,0,0.0
+Item-Based CF,67,13,0,0.0
+Item-Based CF,68,6,1,0.1
+Item-Based CF,69,16,0,0.0
+Item-Based CF,70,30,1,0.1
+Item-Based CF,71,9,0,0.0
+Item-Based CF,72,50,0,0.0
+Item-Based CF,73,22,5,0.5
+Item-Based CF,74,8,1,0.1
+Item-Based CF,75,18,0,0.0
+Item-Based CF,76,21,0,0.0
+Item-Based CF,77,18,2,0.2
+Item-Based CF,78,4,0,0.0
+Item-Based CF,79,17,2,0.2
+Item-Based CF,80,7,0,0.0
+Item-Based CF,81,11,2,0.2
+Item-Based CF,82,34,3,0.3
+Item-Based CF,83,48,0,0.0
+Item-Based CF,84,19,0,0.0
+Item-Based CF,85,69,1,0.1
+Item-Based CF,86,4,0,0.0
+Item-Based CF,87,62,1,0.1
+Item-Based CF,88,7,1,0.1
+Item-Based CF,89,24,1,0.1
+Item-Based CF,90,108,2,0.2
+Item-Based CF,91,34,1,0.1
+Item-Based CF,92,76,2,0.2
+Item-Based CF,93,8,1,0.1
+Item-Based CF,94,106,1,0.1
+Item-Based CF,95,61,0,0.0
+Item-Based CF,96,24,2,0.2
+Item-Based CF,97,24,0,0.0
+Item-Based CF,98,3,0,0.0
+Item-Based CF,99,38,1,0.1
+Item-Based CF,100,8,1,0.1
+Item-Based CF,101,6,0,0.0
+Item-Based CF,102,12,0,0.0
+Item-Based CF,103,9,1,0.1
+Item-Based CF,104,7,0,0.0
+Item-Based CF,105,4,1,0.1
+Item-Based CF,106,26,1,0.1
+Item-Based CF,107,5,0,0.0
+Item-Based CF,108,8,1,0.1
+Item-Based CF,109,49,0,0.0
+Item-Based CF,110,13,0,0.0
+Item-Based CF,111,7,2,0.2
+Item-Based CF,112,14,2,0.2
+Item-Based CF,113,11,0,0.0
+Item-Based CF,114,9,1,0.1
+Item-Based CF,115,29,0,0.0
+Item-Based CF,116,14,1,0.1
+Item-Based CF,117,36,1,0.1
+Item-Based CF,118,26,1,0.1
+Item-Based CF,119,64,0,0.0
+Item-Based CF,120,7,0,0.0
+Item-Based CF,121,15,0,0.0
+Item-Based CF,122,19,0,0.0
+Item-Based CF,123,13,0,0.0
+Item-Based CF,124,6,1,0.1
+Item-Based CF,125,45,3,0.3
+Item-Based CF,126,10,0,0.0
+Item-Based CF,127,10,0,0.0
+Item-Based CF,128,57,1,0.1
+Item-Based CF,129,2,0,0.0
+Item-Based CF,130,121,1,0.1
+Item-Based CF,131,12,0,0.0
+Item-Based CF,132,4,1,0.1
+Item-Based CF,133,2,0,0.0
+Item-Based CF,134,8,0,0.0
+Item-Based CF,135,18,1,0.1
+Item-Based CF,136,13,1,0.1
+Item-Based CF,137,22,0,0.0
+Item-Based CF,138,22,1,0.1
+Item-Based CF,139,8,1,0.1
+Item-Based CF,140,4,0,0.0
+Item-Based CF,141,24,1,0.1
+Item-Based CF,142,7,0,0.0
+Item-Based CF,143,4,0,0.0
+Item-Based CF,144,63,3,0.3
+Item-Based CF,145,63,4,0.4
+Item-Based CF,146,6,0,0.0
+Item-Based CF,147,9,0,0.0
+Item-Based CF,148,24,0,0.0
+Item-Based CF,149,3,0,0.0
+Item-Based CF,150,18,1,0.1
+Item-Based CF,151,99,3,0.3
+Item-Based CF,152,29,2,0.2
+Item-Based CF,153,2,0,0.0
+Item-Based CF,154,17,1,0.1
+Item-Based CF,155,2,0,0.0
+Item-Based CF,156,11,0,0.0
+Item-Based CF,157,15,1,0.1
+Item-Based CF,158,47,3,0.3
+Item-Based CF,159,21,0,0.0
+Item-Based CF,160,35,1,0.1
+Item-Based CF,161,4,0,0.0
+Item-Based CF,162,17,1,0.1
+Item-Based CF,163,6,0,0.0
+Item-Based CF,164,25,0,0.0
+Item-Based CF,165,9,1,0.1
+Item-Based CF,166,7,0,0.0
+Item-Based CF,167,12,0,0.0
+Item-Based CF,168,18,1,0.1
+Item-Based CF,169,11,0,0.0
+Item-Based CF,170,4,0,0.0
+Item-Based CF,171,5,2,0.2
+Item-Based CF,172,5,0,0.0
+Item-Based CF,173,13,2,0.2
+Item-Based CF,174,45,1,0.1
+Item-Based CF,175,8,2,0.2
+Item-Based CF,176,15,0,0.0
+Item-Based CF,177,30,1,0.1
+Item-Based CF,178,76,0,0.0
+Item-Based CF,179,10,0,0.0
+Item-Based CF,180,19,0,0.0
+Item-Based CF,181,9,0,0.0
+Item-Based CF,182,6,1,0.1
+Item-Based CF,183,9,0,0.0
+Item-Based CF,184,60,1,0.1
+Item-Based CF,185,22,1,0.1
+Item-Based CF,186,25,0,0.0
+Item-Based CF,187,15,1,0.1
+Item-Based CF,188,31,1,0.1
+Item-Based CF,189,56,1,0.1
+Item-Based CF,190,10,1,0.1
+Item-Based CF,191,6,2,0.2
+Item-Based CF,192,10,1,0.1
+Item-Based CF,193,25,0,0.0
+Item-Based CF,194,44,2,0.2
+Item-Based CF,195,25,0,0.0
+Item-Based CF,196,14,1,0.1
+Item-Based CF,197,33,1,0.1
+Item-Based CF,198,31,0,0.0
+Item-Based CF,199,9,1,0.1
+Item-Based CF,200,83,3,0.3
+Item-Based CF,201,54,0,0.0
+Item-Based CF,202,2,0,0.0
+Item-Based CF,203,11,1,0.1
+Item-Based CF,204,11,1,0.1
+Item-Based CF,205,4,0,0.0
+Item-Based CF,206,9,2,0.2
+Item-Based CF,207,39,1,0.1
+Item-Based CF,208,16,1,0.1
+Item-Based CF,209,7,0,0.0
+Item-Based CF,210,49,1,0.1
+Item-Based CF,211,4,0,0.0
+Item-Based CF,212,5,0,0.0
+Item-Based CF,213,50,1,0.1
+Item-Based CF,214,46,1,0.1
+Item-Based CF,215,27,2,0.2
+Item-Based CF,216,34,1,0.1
+Item-Based CF,217,16,0,0.0
+Item-Based CF,218,9,0,0.0
+Item-Based CF,219,6,0,0.0
+Item-Based CF,220,9,1,0.1
+Item-Based CF,221,37,3,0.3
+Item-Based CF,222,68,1,0.1
+Item-Based CF,223,21,2,0.2
+Item-Based CF,224,24,2,0.2
+Item-Based CF,225,10,2,0.2
+Item-Based CF,226,15,1,0.1
+Item-Based CF,227,14,0,0.0
+Item-Based CF,228,7,0,0.0
+Item-Based CF,229,4,1,0.1
+Item-Based CF,230,38,2,0.2
+Item-Based CF,231,8,0,0.0
+Item-Based CF,232,32,0,0.0
+Item-Based CF,233,36,2,0.2
+Item-Based CF,234,68,5,0.5
+Item-Based CF,235,41,3,0.3
+Item-Based CF,236,33,1,0.1
+Item-Based CF,237,19,1,0.1
+Item-Based CF,238,5,0,0.0
+Item-Based CF,239,57,1,0.1
+Item-Based CF,240,5,1,0.1
+Item-Based CF,241,6,0,0.0
+Item-Based CF,242,8,0,0.0
+Item-Based CF,243,24,1,0.1
+Item-Based CF,244,76,0,0.0
+Item-Based CF,245,5,0,0.0
+Item-Based CF,246,31,0,0.0
+Item-Based CF,247,9,0,0.0
+Item-Based CF,248,21,2,0.2
+Item-Based CF,249,53,1,0.1
+Item-Based CF,250,40,0,0.0
+Item-Based CF,251,22,0,0.0
+Item-Based CF,252,9,0,0.0
+Item-Based CF,253,32,2,0.2
+Item-Based CF,254,22,0,0.0
+Item-Based CF,255,11,0,0.0
+Item-Based CF,256,62,0,0.0
+Item-Based CF,257,16,2,0.2
+Item-Based CF,258,10,2,0.2
+Item-Based CF,259,15,0,0.0
+Item-Based CF,260,8,0,0.0
+Item-Based CF,261,12,0,0.0
+Item-Based CF,262,25,0,0.0
+Item-Based CF,263,47,0,0.0
+Item-Based CF,264,45,0,0.0
+Item-Based CF,265,10,1,0.1
+Item-Based CF,266,4,1,0.1
+Item-Based CF,267,52,3,0.3
+Item-Based CF,268,47,3,0.3
+Item-Based CF,269,70,1,0.1
+Item-Based CF,270,58,0,0.0
+Item-Based CF,271,66,5,0.5
+Item-Based CF,272,17,2,0.2
+Item-Based CF,273,7,0,0.0
+Item-Based CF,274,25,1,0.1
+Item-Based CF,275,13,0,0.0
+Item-Based CF,276,131,5,0.5
+Item-Based CF,277,18,1,0.1
+Item-Based CF,278,10,1,0.1
+Item-Based CF,279,98,0,0.0
+Item-Based CF,280,51,0,0.0
+Item-Based CF,281,4,0,0.0
+Item-Based CF,282,7,0,0.0
+Item-Based CF,283,21,0,0.0
+Item-Based CF,284,10,0,0.0
+Item-Based CF,285,13,2,0.2
+Item-Based CF,286,77,2,0.2
+Item-Based CF,287,29,0,0.0
+Item-Based CF,288,25,0,0.0
+Item-Based CF,289,6,0,0.0
+Item-Based CF,290,27,0,0.0
+Item-Based CF,291,80,3,0.3
+Item-Based CF,292,56,4,0.4
+Item-Based CF,293,50,2,0.2
+Item-Based CF,294,32,1,0.1
+Item-Based CF,295,85,1,0.1
+Item-Based CF,296,57,0,0.0
+Item-Based CF,297,49,3,0.3
+Item-Based CF,298,31,1,0.1
+Item-Based CF,299,65,2,0.2
+Item-Based CF,300,5,0,0.0
+Item-Based CF,301,69,3,0.3
+Item-Based CF,302,1,0,0.0
+Item-Based CF,303,105,4,0.4
+Item-Based CF,304,5,1,0.1
+Item-Based CF,305,48,0,0.0
+Item-Based CF,306,14,1,0.1
+Item-Based CF,307,39,1,0.1
+Item-Based CF,308,109,7,0.7
+Item-Based CF,309,3,0,0.0
+Item-Based CF,310,12,1,0.1
+Item-Based CF,311,100,3,0.3
+Item-Based CF,312,69,6,0.6
+Item-Based CF,313,60,2,0.2
+Item-Based CF,314,67,0,0.0
+Item-Based CF,315,32,0,0.0
+Item-Based CF,316,23,1,0.1
+Item-Based CF,317,5,0,0.0
+Item-Based CF,318,51,1,0.1
+Item-Based CF,319,6,0,0.0
+Item-Based CF,320,51,1,0.1
+Item-Based CF,321,29,1,0.1
+Item-Based CF,322,18,2,0.2
+Item-Based CF,323,25,1,0.1
+Item-Based CF,324,12,1,0.1
+Item-Based CF,325,35,0,0.0
+Item-Based CF,326,35,1,0.1
+Item-Based CF,327,61,0,0.0
+Item-Based CF,328,54,1,0.1
+Item-Based CF,329,17,3,0.3
+Item-Based CF,330,56,3,0.3
+Item-Based CF,331,16,0,0.0
+Item-Based CF,332,51,1,0.1
+Item-Based CF,333,8,0,0.0
+Item-Based CF,334,66,2,0.2
+Item-Based CF,335,5,0,0.0
+Item-Based CF,336,11,0,0.0
+Item-Based CF,337,8,0,0.0
+Item-Based CF,338,23,2,0.2
+Item-Based CF,339,67,2,0.2
+Item-Based CF,340,16,0,0.0
+Item-Based CF,341,6,0,0.0
+Item-Based CF,342,38,1,0.1
+Item-Based CF,343,59,3,0.3
+Item-Based CF,344,45,0,0.0
+Item-Based CF,345,53,1,0.1
+Item-Based CF,346,22,0,0.0
+Item-Based CF,347,44,0,0.0
+Item-Based CF,348,23,0,0.0
+Item-Based CF,349,5,0,0.0
+Item-Based CF,350,13,0,0.0
+Item-Based CF,351,12,1,0.1
+Item-Based CF,352,9,0,0.0
+Item-Based CF,353,2,0,0.0
+Item-Based CF,354,51,4,0.4
+Item-Based CF,355,6,0,0.0
+Item-Based CF,356,6,0,0.0
+Item-Based CF,357,21,0,0.0
+Item-Based CF,358,5,1,0.1
+Item-Based CF,359,8,0,0.0
+Item-Based CF,360,24,0,0.0
+Item-Based CF,361,29,1,0.1
+Item-Based CF,362,4,0,0.0
+Item-Based CF,363,39,1,0.1
+Item-Based CF,364,4,0,0.0
+Item-Based CF,365,10,1,0.1
+Item-Based CF,366,13,1,0.1
+Item-Based CF,367,21,1,0.1
+Item-Based CF,368,5,1,0.1
+Item-Based CF,369,3,0,0.0
+Item-Based CF,370,12,1,0.1
+Item-Based CF,371,10,0,0.0
+Item-Based CF,372,19,0,0.0
+Item-Based CF,373,49,0,0.0
+Item-Based CF,374,40,0,0.0
+Item-Based CF,375,6,0,0.0
+Item-Based CF,376,5,0,0.0
+Item-Based CF,377,8,0,0.0
+Item-Based CF,378,51,1,0.1
+Item-Based CF,379,46,2,0.2
+Item-Based CF,380,20,1,0.1
+Item-Based CF,381,27,0,0.0
+Item-Based CF,382,7,0,0.0
+Item-Based CF,383,16,2,0.2
+Item-Based CF,384,5,1,0.1
+Item-Based CF,385,35,0,0.0
+Item-Based CF,386,1,0,0.0
+Item-Based CF,387,46,1,0.1
+Item-Based CF,388,9,0,0.0
+Item-Based CF,389,42,0,0.0
+Item-Based CF,390,9,1,0.1
+Item-Based CF,391,17,0,0.0
+Item-Based CF,392,22,2,0.2
+Item-Based CF,393,62,1,0.1
+Item-Based CF,394,19,0,0.0
+Item-Based CF,395,7,1,0.1
+Item-Based CF,396,10,0,0.0
+Item-Based CF,397,10,0,0.0
+Item-Based CF,398,30,2,0.2
+Item-Based CF,399,12,0,0.0
+Item-Based CF,400,2,0,0.0
+Item-Based CF,401,17,0,0.0
+Item-Based CF,402,11,0,0.0
+Item-Based CF,403,3,0,0.0
+Item-Based CF,404,4,0,0.0
+Item-Based CF,405,21,0,0.0
+Item-Based CF,406,42,3,0.3
+Item-Based CF,407,19,0,0.0
+Item-Based CF,408,1,0,0.0
+Item-Based CF,409,24,0,0.0
+Item-Based CF,410,1,0,0.0
+Item-Based CF,411,6,1,0.1
+Item-Based CF,412,10,1,0.1
+Item-Based CF,413,6,2,0.2
+Item-Based CF,414,1,0,0.0
+Item-Based CF,415,2,0,0.0
+Item-Based CF,416,49,2,0.2
+Item-Based CF,417,26,1,0.1
+Item-Based CF,418,2,0,0.0
+Item-Based CF,419,3,0,0.0
+Item-Based CF,420,2,0,0.0
+Item-Based CF,421,6,0,0.0
+Item-Based CF,422,12,0,0.0
+Item-Based CF,423,8,0,0.0
+Item-Based CF,424,3,0,0.0
+Item-Based CF,425,9,0,0.0
+Item-Based CF,426,11,1,0.1
+Item-Based CF,427,6,0,0.0
+Item-Based CF,428,6,0,0.0
+Item-Based CF,429,26,1,0.1
+Item-Based CF,430,4,0,0.0
+Item-Based CF,431,3,0,0.0
+Item-Based CF,432,7,2,0.2
+Item-Based CF,433,3,0,0.0
+Item-Based CF,434,1,0,0.0
+Item-Based CF,435,15,0,0.0
+Item-Based CF,436,12,0,0.0
+Item-Based CF,437,15,0,0.0
+Item-Based CF,438,3,0,0.0
+Item-Based CF,439,1,0,0.0
+Item-Based CF,440,3,0,0.0
+Item-Based CF,442,5,0,0.0
+Item-Based CF,444,3,0,0.0
+Item-Based CF,445,1,0,0.0
+Item-Based CF,447,8,0,0.0
+Item-Based CF,448,2,0,0.0
+Item-Based CF,449,6,0,0.0
+Item-Based CF,450,35,0,0.0
+Item-Based CF,451,3,0,0.0
+Item-Based CF,452,2,0,0.0
+Item-Based CF,453,5,0,0.0
+Item-Based CF,454,4,0,0.0
+Item-Based CF,455,2,0,0.0
+Item-Based CF,456,1,0,0.0
+Item-Based CF,457,7,0,0.0
+Item-Based CF,458,3,0,0.0
+Item-Based CF,462,1,0,0.0
+SVD Matrix Factorization,1,79,8,0.8
+SVD Matrix Factorization,2,12,1,0.1
+SVD Matrix Factorization,3,5,0,0.0
+SVD Matrix Factorization,4,8,0,0.0
+SVD Matrix Factorization,5,25,3,0.3
+SVD Matrix Factorization,6,64,6,0.6
+SVD Matrix Factorization,7,135,7,0.7
+SVD Matrix Factorization,8,22,4,0.4
+SVD Matrix Factorization,9,9,0,0.0
+SVD Matrix Factorization,10,82,6,0.6
+SVD Matrix Factorization,11,37,1,0.1
+SVD Matrix Factorization,12,25,2,0.2
+SVD Matrix Factorization,13,107,1,0.1
+SVD Matrix Factorization,14,41,3,0.3
+SVD Matrix Factorization,15,15,0,0.0
+SVD Matrix Factorization,16,59,6,0.6
+SVD Matrix Factorization,17,2,0,0.0
+SVD Matrix Factorization,18,69,5,0.5
+SVD Matrix Factorization,19,5,0,0.0
+SVD Matrix Factorization,20,6,0,0.0
+SVD Matrix Factorization,21,21,1,0.1
+SVD Matrix Factorization,22,36,4,0.4
+SVD Matrix Factorization,23,35,5,0.5
+SVD Matrix Factorization,24,22,2,0.2
+SVD Matrix Factorization,25,30,3,0.3
+SVD Matrix Factorization,26,6,2,0.2
+SVD Matrix Factorization,27,6,0,0.0
+SVD Matrix Factorization,28,27,5,0.5
+SVD Matrix Factorization,29,10,2,0.2
+SVD Matrix Factorization,30,12,0,0.0
+SVD Matrix Factorization,31,10,2,0.2
+SVD Matrix Factorization,32,6,1,0.1
+SVD Matrix Factorization,33,7,2,0.2
+SVD Matrix Factorization,34,9,0,0.0
+SVD Matrix Factorization,35,3,0,0.0
+SVD Matrix Factorization,36,7,0,0.0
+SVD Matrix Factorization,37,15,2,0.2
+SVD Matrix Factorization,38,33,2,0.2
+SVD Matrix Factorization,39,5,0,0.0
+SVD Matrix Factorization,40,6,0,0.0
+SVD Matrix Factorization,41,13,1,0.1
+SVD Matrix Factorization,42,63,4,0.4
+SVD Matrix Factorization,43,75,7,0.7
+SVD Matrix Factorization,44,47,5,0.5
+SVD Matrix Factorization,45,12,3,0.3
+SVD Matrix Factorization,46,12,1,0.1
+SVD Matrix Factorization,47,6,2,0.2
+SVD Matrix Factorization,48,21,1,0.1
+SVD Matrix Factorization,49,25,3,0.3
+SVD Matrix Factorization,50,6,0,0.0
+SVD Matrix Factorization,51,3,0,0.0
+SVD Matrix Factorization,52,17,0,0.0
+SVD Matrix Factorization,53,6,0,0.0
+SVD Matrix Factorization,54,25,6,0.6
+SVD Matrix Factorization,55,4,0,0.0
+SVD Matrix Factorization,56,56,7,0.7
+SVD Matrix Factorization,57,20,1,0.1
+SVD Matrix Factorization,58,52,3,0.3
+SVD Matrix Factorization,59,112,4,0.4
+SVD Matrix Factorization,60,76,5,0.5
+SVD Matrix Factorization,61,3,0,0.0
+SVD Matrix Factorization,62,55,5,0.5
+SVD Matrix Factorization,63,17,2,0.2
+SVD Matrix Factorization,64,54,6,0.6
+SVD Matrix Factorization,65,25,1,0.1
+SVD Matrix Factorization,66,9,2,0.2
+SVD Matrix Factorization,67,13,1,0.1
+SVD Matrix Factorization,68,6,1,0.1
+SVD Matrix Factorization,69,16,1,0.1
+SVD Matrix Factorization,70,30,4,0.4
+SVD Matrix Factorization,71,9,0,0.0
+SVD Matrix Factorization,72,50,4,0.4
+SVD Matrix Factorization,73,22,4,0.4
+SVD Matrix Factorization,74,8,4,0.4
+SVD Matrix Factorization,75,18,1,0.1
+SVD Matrix Factorization,76,21,1,0.1
+SVD Matrix Factorization,77,18,2,0.2
+SVD Matrix Factorization,78,4,0,0.0
+SVD Matrix Factorization,79,17,1,0.1
+SVD Matrix Factorization,80,7,0,0.0
+SVD Matrix Factorization,81,11,0,0.0
+SVD Matrix Factorization,82,34,1,0.1
+SVD Matrix Factorization,83,48,3,0.3
+SVD Matrix Factorization,84,19,2,0.2
+SVD Matrix Factorization,85,69,5,0.5
+SVD Matrix Factorization,86,4,0,0.0
+SVD Matrix Factorization,87,62,4,0.4
+SVD Matrix Factorization,88,7,0,0.0
+SVD Matrix Factorization,89,24,2,0.2
+SVD Matrix Factorization,90,108,6,0.6
+SVD Matrix Factorization,91,34,3,0.3
+SVD Matrix Factorization,92,76,7,0.7
+SVD Matrix Factorization,93,8,0,0.0
+SVD Matrix Factorization,94,106,7,0.7
+SVD Matrix Factorization,95,61,5,0.5
+SVD Matrix Factorization,96,24,4,0.4
+SVD Matrix Factorization,97,24,1,0.1
+SVD Matrix Factorization,98,3,0,0.0
+SVD Matrix Factorization,99,38,5,0.5
+SVD Matrix Factorization,100,8,3,0.3
+SVD Matrix Factorization,101,6,3,0.3
+SVD Matrix Factorization,102,12,2,0.2
+SVD Matrix Factorization,103,9,1,0.1
+SVD Matrix Factorization,104,7,1,0.1
+SVD Matrix Factorization,105,4,2,0.2
+SVD Matrix Factorization,106,26,1,0.1
+SVD Matrix Factorization,107,5,1,0.1
+SVD Matrix Factorization,108,8,0,0.0
+SVD Matrix Factorization,109,49,5,0.5
+SVD Matrix Factorization,110,13,1,0.1
+SVD Matrix Factorization,111,7,2,0.2
+SVD Matrix Factorization,112,14,4,0.4
+SVD Matrix Factorization,113,11,0,0.0
+SVD Matrix Factorization,114,9,1,0.1
+SVD Matrix Factorization,115,29,2,0.2
+SVD Matrix Factorization,116,14,2,0.2
+SVD Matrix Factorization,117,36,5,0.5
+SVD Matrix Factorization,118,26,3,0.3
+SVD Matrix Factorization,119,64,2,0.2
+SVD Matrix Factorization,120,7,1,0.1
+SVD Matrix Factorization,121,15,3,0.3
+SVD Matrix Factorization,122,19,2,0.2
+SVD Matrix Factorization,123,13,2,0.2
+SVD Matrix Factorization,124,6,0,0.0
+SVD Matrix Factorization,125,45,3,0.3
+SVD Matrix Factorization,126,10,0,0.0
+SVD Matrix Factorization,127,10,3,0.3
+SVD Matrix Factorization,128,57,4,0.4
+SVD Matrix Factorization,129,2,2,0.2
+SVD Matrix Factorization,130,121,9,0.9
+SVD Matrix Factorization,131,12,0,0.0
+SVD Matrix Factorization,132,4,0,0.0
+SVD Matrix Factorization,133,2,1,0.1
+SVD Matrix Factorization,134,8,2,0.2
+SVD Matrix Factorization,135,18,2,0.2
+SVD Matrix Factorization,136,13,2,0.2
+SVD Matrix Factorization,137,22,7,0.7
+SVD Matrix Factorization,138,22,1,0.1
+SVD Matrix Factorization,139,8,1,0.1
+SVD Matrix Factorization,140,4,0,0.0
+SVD Matrix Factorization,141,24,3,0.3
+SVD Matrix Factorization,142,7,0,0.0
+SVD Matrix Factorization,143,4,1,0.1
+SVD Matrix Factorization,144,63,4,0.4
+SVD Matrix Factorization,145,63,4,0.4
+SVD Matrix Factorization,146,6,2,0.2
+SVD Matrix Factorization,147,9,2,0.2
+SVD Matrix Factorization,148,24,2,0.2
+SVD Matrix Factorization,149,3,1,0.1
+SVD Matrix Factorization,150,18,2,0.2
+SVD Matrix Factorization,151,99,5,0.5
+SVD Matrix Factorization,152,29,1,0.1
+SVD Matrix Factorization,153,2,1,0.1
+SVD Matrix Factorization,154,17,2,0.2
+SVD Matrix Factorization,155,2,0,0.0
+SVD Matrix Factorization,156,11,1,0.1
+SVD Matrix Factorization,157,15,0,0.0
+SVD Matrix Factorization,158,47,3,0.3
+SVD Matrix Factorization,159,21,0,0.0
+SVD Matrix Factorization,160,35,4,0.4
+SVD Matrix Factorization,161,4,1,0.1
+SVD Matrix Factorization,162,17,0,0.0
+SVD Matrix Factorization,163,6,2,0.2
+SVD Matrix Factorization,164,25,4,0.4
+SVD Matrix Factorization,165,9,1,0.1
+SVD Matrix Factorization,166,7,0,0.0
+SVD Matrix Factorization,167,12,0,0.0
+SVD Matrix Factorization,168,18,2,0.2
+SVD Matrix Factorization,169,11,3,0.3
+SVD Matrix Factorization,170,4,1,0.1
+SVD Matrix Factorization,171,5,3,0.3
+SVD Matrix Factorization,172,5,0,0.0
+SVD Matrix Factorization,173,13,3,0.3
+SVD Matrix Factorization,174,45,3,0.3
+SVD Matrix Factorization,175,8,0,0.0
+SVD Matrix Factorization,176,15,1,0.1
+SVD Matrix Factorization,177,30,6,0.6
+SVD Matrix Factorization,178,76,4,0.4
+SVD Matrix Factorization,179,10,4,0.4
+SVD Matrix Factorization,180,19,0,0.0
+SVD Matrix Factorization,181,9,3,0.3
+SVD Matrix Factorization,182,6,2,0.2
+SVD Matrix Factorization,183,9,1,0.1
+SVD Matrix Factorization,184,60,6,0.6
+SVD Matrix Factorization,185,22,2,0.2
+SVD Matrix Factorization,186,25,0,0.0
+SVD Matrix Factorization,187,15,1,0.1
+SVD Matrix Factorization,188,31,3,0.3
+SVD Matrix Factorization,189,56,3,0.3
+SVD Matrix Factorization,190,10,5,0.5
+SVD Matrix Factorization,191,6,3,0.3
+SVD Matrix Factorization,192,10,0,0.0
+SVD Matrix Factorization,193,25,1,0.1
+SVD Matrix Factorization,194,44,5,0.5
+SVD Matrix Factorization,195,25,0,0.0
+SVD Matrix Factorization,196,14,1,0.1
+SVD Matrix Factorization,197,33,5,0.5
+SVD Matrix Factorization,198,31,6,0.6
+SVD Matrix Factorization,199,9,3,0.3
+SVD Matrix Factorization,200,83,7,0.7
+SVD Matrix Factorization,201,54,2,0.2
+SVD Matrix Factorization,202,2,0,0.0
+SVD Matrix Factorization,203,11,0,0.0
+SVD Matrix Factorization,204,11,2,0.2
+SVD Matrix Factorization,205,4,0,0.0
+SVD Matrix Factorization,206,9,1,0.1
+SVD Matrix Factorization,207,39,4,0.4
+SVD Matrix Factorization,208,16,2,0.2
+SVD Matrix Factorization,209,7,1,0.1
+SVD Matrix Factorization,210,49,5,0.5
+SVD Matrix Factorization,211,4,0,0.0
+SVD Matrix Factorization,212,5,0,0.0
+SVD Matrix Factorization,213,50,4,0.4
+SVD Matrix Factorization,214,46,4,0.4
+SVD Matrix Factorization,215,27,3,0.3
+SVD Matrix Factorization,216,34,4,0.4
+SVD Matrix Factorization,217,16,1,0.1
+SVD Matrix Factorization,218,9,1,0.1
+SVD Matrix Factorization,219,6,0,0.0
+SVD Matrix Factorization,220,9,1,0.1
+SVD Matrix Factorization,221,37,3,0.3
+SVD Matrix Factorization,222,68,6,0.6
+SVD Matrix Factorization,223,21,0,0.0
+SVD Matrix Factorization,224,24,2,0.2
+SVD Matrix Factorization,225,10,1,0.1
+SVD Matrix Factorization,226,15,2,0.2
+SVD Matrix Factorization,227,14,4,0.4
+SVD Matrix Factorization,228,7,1,0.1
+SVD Matrix Factorization,229,4,2,0.2
+SVD Matrix Factorization,230,38,2,0.2
+SVD Matrix Factorization,231,8,1,0.1
+SVD Matrix Factorization,232,32,4,0.4
+SVD Matrix Factorization,233,36,2,0.2
+SVD Matrix Factorization,234,68,5,0.5
+SVD Matrix Factorization,235,41,1,0.1
+SVD Matrix Factorization,236,33,2,0.2
+SVD Matrix Factorization,237,19,2,0.2
+SVD Matrix Factorization,238,5,2,0.2
+SVD Matrix Factorization,239,57,1,0.1
+SVD Matrix Factorization,240,5,1,0.1
+SVD Matrix Factorization,241,6,1,0.1
+SVD Matrix Factorization,242,8,0,0.0
+SVD Matrix Factorization,243,24,0,0.0
+SVD Matrix Factorization,244,76,4,0.4
+SVD Matrix Factorization,245,5,0,0.0
+SVD Matrix Factorization,246,31,1,0.1
+SVD Matrix Factorization,247,9,0,0.0
+SVD Matrix Factorization,248,21,3,0.3
+SVD Matrix Factorization,249,53,6,0.6
+SVD Matrix Factorization,250,40,1,0.1
+SVD Matrix Factorization,251,22,1,0.1
+SVD Matrix Factorization,252,9,3,0.3
+SVD Matrix Factorization,253,32,5,0.5
+SVD Matrix Factorization,254,22,4,0.4
+SVD Matrix Factorization,255,11,2,0.2
+SVD Matrix Factorization,256,62,4,0.4
+SVD Matrix Factorization,257,16,3,0.3
+SVD Matrix Factorization,258,10,1,0.1
+SVD Matrix Factorization,259,15,2,0.2
+SVD Matrix Factorization,260,8,0,0.0
+SVD Matrix Factorization,261,12,1,0.1
+SVD Matrix Factorization,262,25,1,0.1
+SVD Matrix Factorization,263,47,4,0.4
+SVD Matrix Factorization,264,45,3,0.3
+SVD Matrix Factorization,265,10,3,0.3
+SVD Matrix Factorization,266,4,2,0.2
+SVD Matrix Factorization,267,52,5,0.5
+SVD Matrix Factorization,268,47,6,0.6
+SVD Matrix Factorization,269,70,4,0.4
+SVD Matrix Factorization,270,58,2,0.2
+SVD Matrix Factorization,271,66,4,0.4
+SVD Matrix Factorization,272,17,3,0.3
+SVD Matrix Factorization,273,7,0,0.0
+SVD Matrix Factorization,274,25,2,0.2
+SVD Matrix Factorization,275,13,2,0.2
+SVD Matrix Factorization,276,131,9,0.9
+SVD Matrix Factorization,277,18,1,0.1
+SVD Matrix Factorization,278,10,2,0.2
+SVD Matrix Factorization,279,98,3,0.3
+SVD Matrix Factorization,280,51,1,0.1
+SVD Matrix Factorization,281,4,0,0.0
+SVD Matrix Factorization,282,7,3,0.3
+SVD Matrix Factorization,283,21,2,0.2
+SVD Matrix Factorization,284,10,4,0.4
+SVD Matrix Factorization,285,13,1,0.1
+SVD Matrix Factorization,286,77,2,0.2
+SVD Matrix Factorization,287,29,1,0.1
+SVD Matrix Factorization,288,25,5,0.5
+SVD Matrix Factorization,289,6,0,0.0
+SVD Matrix Factorization,290,27,7,0.7
+SVD Matrix Factorization,291,80,6,0.6
+SVD Matrix Factorization,292,56,3,0.3
+SVD Matrix Factorization,293,50,6,0.6
+SVD Matrix Factorization,294,32,3,0.3
+SVD Matrix Factorization,295,85,2,0.2
+SVD Matrix Factorization,296,57,2,0.2
+SVD Matrix Factorization,297,49,1,0.1
+SVD Matrix Factorization,298,31,5,0.5
+SVD Matrix Factorization,299,65,4,0.4
+SVD Matrix Factorization,300,5,0,0.0
+SVD Matrix Factorization,301,69,5,0.5
+SVD Matrix Factorization,302,1,0,0.0
+SVD Matrix Factorization,303,105,6,0.6
+SVD Matrix Factorization,304,5,1,0.1
+SVD Matrix Factorization,305,48,3,0.3
+SVD Matrix Factorization,306,14,1,0.1
+SVD Matrix Factorization,307,39,3,0.3
+SVD Matrix Factorization,308,109,9,0.9
+SVD Matrix Factorization,309,3,1,0.1
+SVD Matrix Factorization,310,12,1,0.1
+SVD Matrix Factorization,311,100,7,0.7
+SVD Matrix Factorization,312,69,4,0.4
+SVD Matrix Factorization,313,60,9,0.9
+SVD Matrix Factorization,314,67,4,0.4
+SVD Matrix Factorization,315,32,1,0.1
+SVD Matrix Factorization,316,23,3,0.3
+SVD Matrix Factorization,317,5,0,0.0
+SVD Matrix Factorization,318,51,4,0.4
+SVD Matrix Factorization,319,6,1,0.1
+SVD Matrix Factorization,320,51,4,0.4
+SVD Matrix Factorization,321,29,2,0.2
+SVD Matrix Factorization,322,18,4,0.4
+SVD Matrix Factorization,323,25,3,0.3
+SVD Matrix Factorization,324,12,0,0.0
+SVD Matrix Factorization,325,35,6,0.6
+SVD Matrix Factorization,326,35,2,0.2
+SVD Matrix Factorization,327,61,3,0.3
+SVD Matrix Factorization,328,54,6,0.6
+SVD Matrix Factorization,329,17,6,0.6
+SVD Matrix Factorization,330,56,3,0.3
+SVD Matrix Factorization,331,16,1,0.1
+SVD Matrix Factorization,332,51,5,0.5
+SVD Matrix Factorization,333,8,1,0.1
+SVD Matrix Factorization,334,66,6,0.6
+SVD Matrix Factorization,335,5,0,0.0
+SVD Matrix Factorization,336,11,0,0.0
+SVD Matrix Factorization,337,8,1,0.1
+SVD Matrix Factorization,338,23,1,0.1
+SVD Matrix Factorization,339,67,7,0.7
+SVD Matrix Factorization,340,16,2,0.2
+SVD Matrix Factorization,341,6,0,0.0
+SVD Matrix Factorization,342,38,3,0.3
+SVD Matrix Factorization,343,59,5,0.5
+SVD Matrix Factorization,344,45,3,0.3
+SVD Matrix Factorization,345,53,7,0.7
+SVD Matrix Factorization,346,22,4,0.4
+SVD Matrix Factorization,347,44,7,0.7
+SVD Matrix Factorization,348,23,2,0.2
+SVD Matrix Factorization,349,5,2,0.2
+SVD Matrix Factorization,350,13,0,0.0
+SVD Matrix Factorization,351,12,2,0.2
+SVD Matrix Factorization,352,9,2,0.2
+SVD Matrix Factorization,353,2,2,0.2
+SVD Matrix Factorization,354,51,6,0.6
+SVD Matrix Factorization,355,6,0,0.0
+SVD Matrix Factorization,356,6,0,0.0
+SVD Matrix Factorization,357,21,4,0.4
+SVD Matrix Factorization,358,5,0,0.0
+SVD Matrix Factorization,359,8,1,0.1
+SVD Matrix Factorization,360,24,4,0.4
+SVD Matrix Factorization,361,29,2,0.2
+SVD Matrix Factorization,362,4,1,0.1
+SVD Matrix Factorization,363,39,0,0.0
+SVD Matrix Factorization,364,4,2,0.2
+SVD Matrix Factorization,365,10,0,0.0
+SVD Matrix Factorization,366,13,1,0.1
+SVD Matrix Factorization,367,21,0,0.0
+SVD Matrix Factorization,368,5,1,0.1
+SVD Matrix Factorization,369,3,1,0.1
+SVD Matrix Factorization,370,12,0,0.0
+SVD Matrix Factorization,371,10,3,0.3
+SVD Matrix Factorization,372,19,0,0.0
+SVD Matrix Factorization,373,49,5,0.5
+SVD Matrix Factorization,374,40,2,0.2
+SVD Matrix Factorization,375,6,2,0.2
+SVD Matrix Factorization,376,5,1,0.1
+SVD Matrix Factorization,377,8,1,0.1
+SVD Matrix Factorization,378,51,5,0.5
+SVD Matrix Factorization,379,46,5,0.5
+SVD Matrix Factorization,380,20,1,0.1
+SVD Matrix Factorization,381,27,2,0.2
+SVD Matrix Factorization,382,7,0,0.0
+SVD Matrix Factorization,383,16,3,0.3
+SVD Matrix Factorization,384,5,1,0.1
+SVD Matrix Factorization,385,35,1,0.1
+SVD Matrix Factorization,386,1,0,0.0
+SVD Matrix Factorization,387,46,3,0.3
+SVD Matrix Factorization,388,9,0,0.0
+SVD Matrix Factorization,389,42,2,0.2
+SVD Matrix Factorization,390,9,1,0.1
+SVD Matrix Factorization,391,17,3,0.3
+SVD Matrix Factorization,392,22,2,0.2
+SVD Matrix Factorization,393,62,2,0.2
+SVD Matrix Factorization,394,19,3,0.3
+SVD Matrix Factorization,395,7,3,0.3
+SVD Matrix Factorization,396,10,0,0.0
+SVD Matrix Factorization,397,10,1,0.1
+SVD Matrix Factorization,398,30,4,0.4
+SVD Matrix Factorization,399,12,2,0.2
+SVD Matrix Factorization,400,2,1,0.1
+SVD Matrix Factorization,401,17,0,0.0
+SVD Matrix Factorization,402,11,3,0.3
+SVD Matrix Factorization,403,3,2,0.2
+SVD Matrix Factorization,404,4,2,0.2
+SVD Matrix Factorization,405,21,1,0.1
+SVD Matrix Factorization,406,42,3,0.3
+SVD Matrix Factorization,407,19,0,0.0
+SVD Matrix Factorization,408,1,0,0.0
+SVD Matrix Factorization,409,24,2,0.2
+SVD Matrix Factorization,410,1,0,0.0
+SVD Matrix Factorization,411,6,1,0.1
+SVD Matrix Factorization,412,10,1,0.1
+SVD Matrix Factorization,413,6,0,0.0
+SVD Matrix Factorization,414,1,0,0.0
+SVD Matrix Factorization,415,2,0,0.0
+SVD Matrix Factorization,416,49,5,0.5
+SVD Matrix Factorization,417,26,3,0.3
+SVD Matrix Factorization,418,2,0,0.0
+SVD Matrix Factorization,419,3,0,0.0
+SVD Matrix Factorization,420,2,0,0.0
+SVD Matrix Factorization,421,6,1,0.1
+SVD Matrix Factorization,422,12,1,0.1
+SVD Matrix Factorization,423,8,2,0.2
+SVD Matrix Factorization,424,3,0,0.0
+SVD Matrix Factorization,425,9,0,0.0
+SVD Matrix Factorization,426,11,1,0.1
+SVD Matrix Factorization,427,6,0,0.0
+SVD Matrix Factorization,428,6,2,0.2
+SVD Matrix Factorization,429,26,5,0.5
+SVD Matrix Factorization,430,4,0,0.0
+SVD Matrix Factorization,431,3,0,0.0
+SVD Matrix Factorization,432,7,1,0.1
+SVD Matrix Factorization,433,3,2,0.2
+SVD Matrix Factorization,434,1,0,0.0
+SVD Matrix Factorization,435,15,0,0.0
+SVD Matrix Factorization,436,12,1,0.1
+SVD Matrix Factorization,437,15,2,0.2
+SVD Matrix Factorization,438,3,0,0.0
+SVD Matrix Factorization,439,1,0,0.0
+SVD Matrix Factorization,440,3,0,0.0
+SVD Matrix Factorization,442,5,1,0.1
+SVD Matrix Factorization,444,3,0,0.0
+SVD Matrix Factorization,445,1,0,0.0
+SVD Matrix Factorization,447,8,1,0.1
+SVD Matrix Factorization,448,2,0,0.0
+SVD Matrix Factorization,449,6,1,0.1
+SVD Matrix Factorization,450,35,6,0.6
+SVD Matrix Factorization,451,3,2,0.2
+SVD Matrix Factorization,452,2,0,0.0
+SVD Matrix Factorization,453,5,2,0.2
+SVD Matrix Factorization,454,4,1,0.1
+SVD Matrix Factorization,455,2,0,0.0
+SVD Matrix Factorization,456,1,0,0.0
+SVD Matrix Factorization,457,7,0,0.0
+SVD Matrix Factorization,458,3,0,0.0
+SVD Matrix Factorization,462,1,0,0.0

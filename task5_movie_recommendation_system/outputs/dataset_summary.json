@@ -1,0 +1,17 @@
+{
+  "dataset": "MovieLens 100K",
+  "train_ratings": 80000,
+  "test_ratings": 20000,
+  "users": 943,
+  "movies": 1682,
+  "matrix_density": 0.05043735491379626,
+  "rating_scale": [
+    1,
+    5
+  ],
+  "relevant_rating_threshold": 4,
+  "top_k": 10,
+  "neighbors": 30,
+  "svd_components": 50,
+  "sample_user": 1
+}

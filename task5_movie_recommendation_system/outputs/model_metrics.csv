@@ -1,0 +1,5 @@
+model,precision_at_10,evaluated_users,total_hits
+SVD Matrix Factorization,0.21710526315789475,456,990
+User-Based CF,0.16535087719298247,456,754
+Popularity Baseline,0.14035087719298245,456,640
+Item-Based CF,0.07785087719298246,456,355

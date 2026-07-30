@@ -17,6 +17,9 @@ Internship.
 4. **[Task 4 - Loan Approval Prediction](task4_loan_approval_prediction/):**
    Leakage-safe binary classification with Logistic Regression, Decision
    Trees, class weighting, and SMOTE for imbalanced loan decisions.
+5. **[Task 5 - Movie Recommendation System](task5_movie_recommendation_system/):**
+   User-based collaborative filtering with item-based and SVD bonus models,
+   evaluated using precision at K on held-out ratings.
 
 ---
 

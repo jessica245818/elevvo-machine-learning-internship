@@ -1,0 +1,11 @@
+rank,movie_id,title,predicted_rating
+1,64,"Shawshank Redemption, The (1994)",4.7716847660096615
+2,318,Schindler's List (1993),4.729668092728619
+3,511,Lawrence of Arabia (1962),4.728557112027845
+4,408,"Close Shave, A (1995)",4.7263976780201755
+5,12,"Usual Suspects, The (1995)",4.720376394406851
+6,174,Raiders of the Lost Ark (1981),4.719056731162726
+7,483,Casablanca (1942),4.701907642652971
+8,134,Citizen Kane (1941),4.692274028087449
+9,98,"Silence of the Lambs, The (1991)",4.670111531980837
+10,114,Wallace & Gromit: The Best of Aardman Animation (1996),4.64103248675754
