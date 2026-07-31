@@ -2,6 +2,6 @@
 __pycache__/
 *.py[cod]
 .venv/
-data/raw/*.csv
-outputs/baseline_test_predictions.csv
-outputs/figures/*.png
+task1_student_score_prediction/data/raw/*.csv
+task1_student_score_prediction/outputs/baseline_test_predictions.csv
+task1_student_score_prediction/outputs/figures/*.png

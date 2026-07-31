@@ -49,13 +49,16 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--data",
         type=Path,
-        default=Path("data/raw/StudentPerformanceFactors.csv"),
+        default=Path(
+            "task1_student_score_prediction/data/raw/"
+            "StudentPerformanceFactors.csv"
+        ),
         help="Path to the Student Performance Factors CSV.",
     )
     parser.add_argument(
         "--output-dir",
         type=Path,
-        default=Path("outputs"),
+        default=Path("task1_student_score_prediction/outputs"),
         help="Directory for metrics, predictions, and figures.",
     )
     return parser.parse_args()

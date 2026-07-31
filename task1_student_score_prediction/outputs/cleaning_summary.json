@@ -1,5 +1,5 @@
 {
-  "source_file": "data/raw/StudentPerformanceFactors.csv",
+  "source_file": "task1_student_score_prediction/data/raw/StudentPerformanceFactors.csv",
   "original_rows": 6607,
   "duplicate_rows_removed": 0,
   "invalid_target_rows_removed": 1,
